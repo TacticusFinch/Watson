@@ -4,6 +4,7 @@ import random
 import re
 
 from aiogram import types, Router
+from aiogram.enums import ParseMode
 from aiogram.filters import CommandStart, Command
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
@@ -24,6 +25,177 @@ BRILLIANTS_FOLDER = "brilliants"
 CHAT_ID = None
 
 user_private_router = Router()
+
+
+
+
+All_tests = [
+    {
+        "id": 1,
+        "title": "Бесшумный ниндзя",
+        "category": "Тактика",
+        "difficulty": "Легкий",
+        "number": "1",
+        "questions": [
+            {
+                "question": "Вопрос 1. За какое наименьшее количество ходов белый конь сможет сделать шах королю, оставаясь незамеченным?",
+                "image_path": "ninja/1.png",
+                "options": ["Это невозможно", "2", "3", "4"],
+                "correct_option_id": 3
+            },
+            {
+                "question": "Вопрос 2. За какое наименьшее количество ходов белая ладья сможет сделать шах королю, оставаясь незамеченной?",
+                "image_path": "ninja/2.png",
+                "options": ["Это невозможно", "2", "3", "4"],
+                "correct_option_id": 2
+            },
+            {
+                "question": "Вопрос 3. За какое наименьшее количество ходов белый ферзь сможет сделать шах королю, оставаясь незамеченным?",
+                "image_path": "ninja/3.png",
+                "options": ["Это невозможно", "2", "3", "4"],
+                "correct_option_id": 1
+            },
+            {
+                "question": "Вопрос 4. За какое наименьшее количество ходов белый слон сможет сделать шах королю, оставаясь незамеченным?",
+                "image_path": "ninja/4.png",
+                "options": ["Это невозможно", "2", "3", "4"],
+                "correct_option_id": 3
+            },
+            {
+                "question": "Вопрос 5. За какое наименьшее количество ходов белый слон сможет сделать шах королю, оставаясь незамеченным?",
+                "image_path": "ninja/5.png",
+                "options": ["Это невозможно", "2", "3", "4"],
+                "correct_option_id": 3
+            },
+            {
+                "question": "Вопрос 6. За какое наименьшее количество ходов белый ферзь сможет сделать шах королю, оставаясь незамеченным?",
+                "image_path": "ninja/6.png",
+                "options": ["Это невозможно", "2", "3", "4"],
+                "correct_option_id": 1
+            },
+            {
+                "question": "Вопрос 7. За какое наименьшее количество ходов белый ферзь сможет сделать шах королю, оставаясь незамеченным?",
+                "image_path": "ninja/7.png",
+                "options": ["Это невозможно", "2", "3", "4"],
+                "correct_option_id": 3
+            },
+            {
+                "question": "Вопрос 8. За какое наименьшее количество ходов черный конь сможет сделать шах королю, оставаясь незамеченным?",
+                "image_path": "ninja/8.png",
+                "options": ["Это невозможно", "3", "4", "5"],
+                "correct_option_id": 3
+            },
+            {
+                "question": "Вопрос 9. За какое наименьшее количество ходов черная ладья сможет сделать шах королю, оставаясь незамеченной?",
+                "image_path": "ninja/9.png",
+                "options": ["Это невозможно", "3", "4", "5"],
+                "correct_option_id": 0
+            },
+            {
+                "question": "Вопрос 10. За какое наименьшее количество ходов черная ладья сможет сделать шах королю, оставаясь незамеченной?",
+                "image_path": "ninja/10.png",
+                "options": ["Это невозможно", "3", "4", "5"],
+                "correct_option_id": 2
+            },
+            {
+                "question": "Вопрос 11. За какое наименьшее количество ходов белый ферзь сможет сделать шах королю, оставаясь незамеченным?",
+                "image_path": "ninja/11.png",
+                "options": ["Это невозможно", "3", "4", "5"],
+                "correct_option_id": 2
+            },
+            {
+                "question": "Вопрос 12. За какое наименьшее количество ходов черный конь сможет сделать шах королю, оставаясь незамеченным?",
+                "image_path": "ninja/12.png",
+                "options": ["Это невозможно", "4", "5", "6"],
+                "correct_option_id": 3
+            },
+        ],
+    },
+
+    {
+        "id": 2,
+        "title": "Счетчик шахов",
+        "category": "Тактика",
+        "dificulty": "Легкий",
+        "number": "2",
+        "questions": [
+            {
+                "question": "Вопрос 1. Ход белых. Сколько всевозможных шахов можно поставить в этой позиции?",
+                "image_path": "",
+                "options": ["1", "2", "3", "4"],
+                "correct_option_id": 3
+            },
+            {
+                "question": "Вопрос 1. Ход белых. Сколько всевозможных шахов можно поставить в этой позиции?",
+                "image_path": "",
+                "options": ["Это невозможно", "2", "3", "4"],
+                "correct_option_id": 2
+            },
+            {
+                "question": "Вопрос 1. Ход белых. Сколько всевозможных шахов можно поставить в этой позиции?",
+                "image_path": "",
+                "options": ["Это невозможно", "2", "3", "4"],
+                "correct_option_id": 1
+            },
+            {
+                "question": "Вопрос 1. Ход белых. Сколько всевозможных шахов можно поставить в этой позиции?",
+                "image_path": "",
+                "options": ["Это невозможно", "2", "3", "4"],
+                "correct_option_id": 3
+            },
+            {
+                "question": "Вопрос 1. Ход белых. Сколько всевозможных шахов можно поставить в этой позиции??",
+                "image_path": "",
+                "options": ["Это невозможно", "2", "3", "4"],
+                "correct_option_id": 3
+            },
+            {
+                "question": "Вопрос 1. Ход белых. Сколько всевозможных шахов можно поставить в этой позиции?",
+                "image_path": "",
+                "options": ["Это невозможно", "2", "3", "4"],
+                "correct_option_id": 1
+            },
+            {
+                "question": "Вопрос 1. Ход белых. Сколько всевозможных шахов можно поставить в этой позиции?",
+                "image_path": "",
+                "options": ["Это невозможно", "2", "3", "4"],
+                "correct_option_id": 3
+            },
+            {
+                "question": "Вопрос 1. Ход белых. Сколько всевозможных шахов можно поставить в этой позиции?",
+                "image_path": "",
+                "options": ["Это невозможно", "3", "4", "5"],
+                "correct_option_id": 3
+            },
+            {
+                "question": "Вопрос 1. Ход белых. Сколько всевозможных шахов можно поставить в этой позиции?",
+                "image_path": "",
+                "options": ["Это невозможно", "3", "4", "5"],
+                "correct_option_id": 0
+            },
+            {
+                "question": "Вопрос 1. Ход белых. Сколько всевозможных шахов можно поставить в этой позиции?",
+                "image_path": "",
+                "options": ["Это невозможно", "3", "4", "5"],
+                "correct_option_id": 2
+            },
+            {
+                "question": "Вопрос 1. Ход белых. Сколько всевозможных шахов можно поставить в этой позиции?",
+                "image_path": "",
+                "options": ["Это невозможно", "3", "4", "5"],
+                "correct_option_id": 2
+            },
+            {
+                "question": "Вопрос 1. Ход белых. Сколько всевозможных шахов можно поставить в этой позиции?",
+                "image_path": "",
+                "options": ["Это невозможно", "4", "5", "6"],
+                "correct_option_id": 3
+            },
+        ],
+    }
+
+
+]
 
 user_states = {
     'might': {},
@@ -695,7 +867,7 @@ async def start_ninja_test(message: types.Message):
     user_scores[user_id] = 0
     await send_ninja_questions(chat_id, user_id)
 # async def define_style(message: types.Message)
-async def send_ninja_questions(cexithat_id, user_id):
+async def send_ninja_questions(chat_id, user_id):
     current_question_index = user_states['ninja'][user_id]
     question_data = ninja_questions[current_question_index]
     print(question_data)
@@ -881,5 +1053,21 @@ async def welcome2homework(message):
     scheduler.start()
 
 async def homework(message):
-    await message.answer("е2-е4! Сегодня наше домашнее задание называется ... . Желаю успешного выполнения!")
-    await start_test(message)
+    await start_homework(message)
+
+async def start_homework(message):
+    for test in All_tests:
+        await message.answer(f"e2-e4!\nДомашнее задание: {test['title']}\nКатегория: {test['category']}\nСложность: {test['difficulty']}\n",parse_mode=ParseMode.HTML)
+        # Итерация по вопросам викторины
+        for question in test["questions"]:
+            photo = FSInputFile(question["image_path"])  # Исправлено
+            await bot.send_photo(chat_id=message.chat.id, photo=photo)
+            # Отправка вопроса как poll
+            await bot.send_poll(
+                chat_id=message.chat.id,
+                question=question["question"],  # Текст вопроса
+                options=question["options"],  # Варианты ответа
+                type="quiz",  # Тип опроса (викторина)
+                correct_option_id=question["correct_option_id"],  # Индекс правильного ответа
+                is_anonymous=False,  # Опрос не анонимный
+            )
