@@ -1,0 +1,3546 @@
+[
+      {
+        "id": "easy_prophet_1",
+        "title": "Два хода в уме",
+        "category": "тактика",
+        "difficulty": "легкая",
+        "text": "Прочитай будущее и найди победу!",
+        "number": "1",
+        "number_of_ex": "12",
+        "questions": [
+        {
+            "image_path": "prophet/easy/1.png",
+            "correct": "Rg7"
+        },
+        {
+            "image_path": "prophet/easy/2.png",
+            "correct": "Re6"
+        },
+        {
+            "image_path": "prophet/easy/3.png",
+            "correct": "Rf6"
+        },
+        {
+            "image_path": "prophet/easy/4.png",
+            "correct": "Re8"
+        },
+        {
+            "image_path": "prophet/easy/5.png",
+            "correct": "Bh7"
+        },
+        {
+            "image_path": "prophet/easy/6.png",
+            "correct": "Bh6"
+        },
+        {
+            "image_path": "prophet/easy/7.png",
+            "correct": "Nc6"
+        },
+        {
+            "image_path": "prophet/easy/8.png",
+            "correct": "Qg7"
+        },
+        {
+            "image_path": "prophet/easy/9.png",
+            "correct": "Rh6"
+        },
+        {
+            "image_path": "prophet/easy/10.png",
+            "correct": "Bh6"
+        },
+        {
+            "image_path": "prophet/easy/11.png",
+            "correct": "Re7"
+        },
+        {
+            "image_path": "prophet/easy/12.png",
+            "correct": "Rg7"
+        }
+        ]
+      },
+  {
+        "id": "easy_prophet_2",
+        "title": "Два хода в уме",
+        "category": "тактика",
+        "difficulty": "легкая",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "2",
+        "questions": [
+        {
+            "image_path": "prophet/easy/13.png",
+            "correct": "Re6"
+        },
+        {
+            "image_path": "prophet/easy/14.png",
+            "correct": "Re5"
+        },
+        {
+            "image_path": "prophet/easy/15.png",
+            "correct": "Rf5"
+        },
+        {
+            "image_path": "prophet/easy/16.png",
+            "correct": "Bc4"
+        },
+        {
+            "image_path": "prophet/easy/17.png",
+            "correct": "Rc5"
+        },
+        {
+            "image_path": "prophet/easy/18.png",
+            "correct": "Re7"
+        },
+        {
+            "image_path": "prophet/easy/19.png",
+            "correct": "Rf6"
+        },
+        {
+            "image_path": "prophet/easy/20.png",
+            "correct": "Rh5"
+        },
+        {
+            "image_path": "prophet/easy/21.png",
+            "correct": "Bg6"
+        },
+        {
+            "image_path": "prophet/easy/22.png",
+            "correct": "Re6"
+        },
+        {
+            "image_path": "prophet/easy/23.png",
+            "correct": "Nh5"
+        },
+        {
+            "image_path": "prophet/easy/24.png",
+            "correct": "Bg7"
+        }
+        ]
+  },
+
+
+  {
+        "id": "easy_prophet_3",
+        "title": "Два хода в уме",
+        "category": "тактика",
+        "difficulty": "легкая",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "3",
+        "questions": [
+        {
+            "image_path": "prophet/easy/25.png",
+            "correct": "Ne6"
+        },
+        {
+            "image_path": "prophet/easy/26.png",
+            "correct": "Bg7"
+        },
+        {
+            "image_path": "prophet/easy/27.png",
+            "correct": "Ng6"
+        },
+        {
+            "image_path": "prophet/easy/28.png",
+            "correct": "Rf5"
+        },
+        {
+            "image_path": "prophet/easy/29.png",
+            "correct": "Qf5"
+        },
+        {
+            "image_path": "prophet/easy/30.png",
+            "correct": "Rg7"
+        },
+        {
+            "image_path": "prophet/easy/31.png",
+            "correct": "Re7"
+        },
+        {
+            "image_path": "prophet/easy/32.png",
+            "correct": "Rg5"
+        },
+        {
+            "image_path": "prophet/easy/33.png",
+            "correct": "Rd5"
+        },
+        {
+            "image_path": "prophet/easy/34.png",
+            "correct": "Re6"
+        },
+        {
+            "image_path": "prophet/easy/35.png",
+            "correct": "Rd6"
+        },
+        {
+            "image_path": "prophet/easy/36.png",
+            "correct": "Qg8"
+        }
+        ]
+  },
+
+  {
+        "id": "easy_prophet_4",
+        "title": "Два хода в уме",
+        "category": "тактика",
+        "difficulty": "легкая",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "4",
+        "questions": [
+        {
+            "image_path": "prophet/easy/37.png",
+            "correct": "Bg6"
+        },
+        {
+            "image_path": "prophet/easy/38.png",
+            "correct": "Rg8"
+        },
+        {
+            "image_path": "prophet/easy/39.png",
+            "correct": "Nf7"
+        },
+        {
+            "image_path": "prophet/easy/40.png",
+            "correct": "Bh6"
+        },
+        {
+            "image_path": "prophet/easy/41.png",
+            "correct": "Rb7"
+        },
+        {
+            "image_path": "prophet/easy/42.png",
+            "correct": "Qf7"
+        },
+        {
+            "image_path": "prophet/easy/43.png",
+            "correct": "Re8"
+        },
+        {
+            "image_path": "prophet/easy/44.png",
+            "correct": "Bg5"
+        },
+        {
+            "image_path": "prophet/easy/45.png",
+            "correct": "Nd6"
+        },
+        {
+            "image_path": "prophet/easy/46.png",
+            "correct": "Rf8"
+        },
+        {
+            "image_path": "prophet/easy/47.png",
+            "correct": "Bg7"
+        },
+        {
+            "image_path": "prophet/easy/48.png",
+            "correct": "Rf7"
+        }
+        ]
+  },
+
+  {
+        "id": "easy_prophet_5",
+        "title": "Два хода в уме",
+        "category": "тактика",
+        "difficulty": "легкая",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "5",
+        "questions": [
+        {
+            "image_path": "prophet/easy/49.png",
+            "correct": "Rf6"
+        },
+        {
+            "image_path": "prophet/easy/50.png",
+            "correct": "Nb7"
+        },
+        {
+            "image_path": "prophet/easy/51.png",
+            "correct": "Na6"
+        },
+        {
+            "image_path": "prophet/easy/52.png",
+            "correct": "Rd5"
+        },
+        {
+            "image_path": "prophet/easy/53.png",
+            "correct": "Rg7"
+        },
+        {
+            "image_path": "prophet/easy/54.png",
+            "correct": "Rb7"
+        },
+        {
+            "image_path": "prophet/easy/55.png",
+            "correct": "Rh6"
+        },
+        {
+            "image_path": "prophet/easy/56.png",
+            "correct": "Rg8"
+        },
+        {
+            "image_path": "prophet/easy/57.png",
+            "correct": "Re6"
+        },
+        {
+            "image_path": "prophet/easy/58.png",
+            "correct": "Re8"
+        },
+        {
+            "image_path": "prophet/easy/59.png",
+            "correct": "Be4"
+        },
+        {
+            "image_path": "prophet/easy/60.png",
+            "correct": "Bf6"
+        }
+        ]
+      },
+
+  {
+        "id": "easy_prophet_6",
+        "title": "Два хода в уме",
+        "category": "тактика",
+        "difficulty": "легкая",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "6",
+        "questions": [
+        {
+            "image_path": "prophet/easy/61.png",
+            "correct": "Rf8"
+        },
+        {
+            "image_path": "prophet/easy/62.png",
+            "correct": "Re7"
+        },
+        {
+            "image_path": "prophet/easy/63.png",
+            "correct": "Rd4"
+        },
+        {
+            "image_path": "prophet/easy/64.png",
+            "correct": "Qd6"
+        },
+        {
+            "image_path": "prophet/easy/65.png",
+            "correct": "Rh5"
+        },
+        {
+            "image_path": "prophet/easy/66.png",
+            "correct": "Re8"
+        },
+        {
+            "image_path": "prophet/easy/67.png",
+            "correct": "Rb7"
+        },
+        {
+            "image_path": "prophet/easy/68.png",
+            "correct": "Rh7"
+        },
+        {
+            "image_path": "prophet/easy/69.png",
+            "correct": "Rh7"
+        },
+        {
+            "image_path": "prophet/easy/70.png",
+            "correct": "Rg7"
+        },
+        {
+            "image_path": "prophet/easy/71.png",
+            "correct": "Rh8"
+        },
+        {
+            "image_path": "prophet/easy/72.png",
+            "correct": "Qg6"
+        }
+        ]
+      },
+
+  {
+        "id": "easy_prophet_7",
+        "title": "Два хода в уме",
+        "category": "тактика",
+        "difficulty": "легкая",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "7",
+        "questions": [
+        {
+            "image_path": "prophet/easy/73.png",
+            "correct": "Qf7"
+        },
+        {
+            "image_path": "prophet/easy/74.png",
+            "correct": "Ne6"
+        },
+        {
+            "image_path": "prophet/easy/75.png",
+            "correct": "Re6"
+        },
+        {
+            "image_path": "prophet/easy/76.png",
+            "correct": "Re7"
+        },
+        {
+            "image_path": "prophet/easy/77.png",
+            "correct": "Rf5"
+        },
+        {
+            "image_path": "prophet/easy/78.png",
+            "correct": "Qh6"
+        },
+        {
+            "image_path": "prophet/easy/79.png",
+            "correct": "Qf7"
+        },
+        {
+            "image_path": "prophet/easy/80.png",
+            "correct": "Rc6"
+        },
+        {
+            "image_path": "prophet/easy/81.png",
+            "correct": "Bg6"
+        },
+        {
+            "image_path": "prophet/easy/82.png",
+            "correct": "Re7"
+        },
+        {
+            "image_path": "prophet/easy/83.png",
+            "correct": "Nf5"
+        },
+        {
+            "image_path": "prophet/easy/84.png",
+            "correct": "Rc6"
+        }
+        ]
+      },
+  {
+        "id": "easy_prophet_8",
+        "title": "Два хода в уме",
+        "category": "тактика",
+        "difficulty": "легкая",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "8",
+        "questions": [
+        {
+            "image_path": "prophet/easy/85.png",
+            "correct": "Nd5"
+        },
+        {
+            "image_path": "prophet/easy/86.png",
+            "correct": "Rb7"
+        },
+        {
+            "image_path": "prophet/easy/87.png",
+            "correct": "Rb6"
+        },
+        {
+            "image_path": "prophet/easy/88.png",
+            "correct": "Be5"
+        },
+        {
+            "image_path": "prophet/easy/89.png",
+            "correct": "Rh7"
+        },
+        {
+            "image_path": "prophet/easy/90.png",
+            "correct": "Rd6"
+        },
+        {
+            "image_path": "prophet/easy/91.png",
+            "correct": "Rf6"
+        },
+        {
+            "image_path": "prophet/easy/92.png",
+            "correct": "Rg4"
+        },
+        {
+            "image_path": "prophet/easy/93.png",
+            "correct": "Qe8"
+        },
+        {
+            "image_path": "prophet/easy/94.png",
+            "correct": "Rc8"
+        },
+        {
+            "image_path": "prophet/easy/95.png",
+            "correct": "Rh7"
+        },
+        {
+            "image_path": "prophet/easy/96.png",
+            "correct": "Rh7"
+        }
+        ]
+  },
+
+  {
+        "id": "easy_prophet_9",
+        "title": "Два хода в уме",
+        "category": "тактика",
+        "difficulty": "легкая",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "9",
+        "questions": [
+        {
+            "image_path": "prophet/easy/97.png",
+            "correct": "Ngf5"
+        },
+        {
+            "image_path": "prophet/easy/98.png",
+            "correct": "Rd7"
+        },
+        {
+            "image_path": "prophet/easy/99.png",
+            "correct": "Qc6"
+        },
+        {
+            "image_path": "prophet/easy/100.png",
+            "correct": "Rh6"
+        },
+        {
+            "image_path": "prophet/easy/101.png",
+            "correct": "Bg7"
+        },
+        {
+            "image_path": "prophet/easy/102.png",
+            "correct": "Rh7"
+        },
+        {
+            "image_path": "prophet/easy/103.png",
+            "correct": "Bg7"
+        },
+        {
+            "image_path": "prophet/easy/104.png",
+            "correct": "Rc7"
+        },
+        {
+            "image_path": "prophet/easy/105.png",
+            "correct": "Re7"
+        },
+        {
+            "image_path": "prophet/easy/106.png",
+            "correct": "Bd7"
+        },
+        {
+            "image_path": "prophet/easy/107.png",
+            "correct": "Nf5"
+        },
+        {
+            "image_path": "prophet/easy/108.png",
+            "correct": "Ng5"
+        }
+        ]
+  },
+
+
+  {
+        "id": "easy_prophet_10",
+        "title": "Два хода в уме",
+        "category": "тактика",
+        "difficulty": "легкая",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "10",
+        "questions": [
+        {
+            "image_path": "prophet/easy/109.png",
+            "correct": "Qe4"
+        },
+        {
+            "image_path": "prophet/easy/110.png",
+            "correct": "Rc7"
+        },
+        {
+            "image_path": "prophet/easy/111.png",
+            "correct": "Bg6"
+        },
+        {
+            "image_path": "prophet/easy/112.png",
+            "correct": "Rg5"
+        },
+        {
+            "image_path": "prophet/easy/113.png",
+            "correct": "Qh7"
+        },
+        {
+            "image_path": "prophet/easy/114.png",
+            "correct": "Rc8"
+        },
+        {
+            "image_path": "prophet/easy/115.png",
+            "correct": "Nf7"
+        },
+        {
+            "image_path": "prophet/easy/116.png",
+            "correct": "Rd6"
+        },
+        {
+            "image_path": "prophet/easy/117.png",
+            "correct": "Qe4"
+        },
+        {
+            "image_path": "prophet/easy/118.png",
+            "correct": "Rd5"
+        },
+        {
+            "image_path": "prophet/easy/119.png",
+            "correct": "Bg6"
+        },
+        {
+            "image_path": "prophet/easy/120.png",
+            "correct": "Ra7"
+        }
+        ]
+  },
+
+ {
+        "id": "easy_prophet_11",
+        "title": "Два хода в уме",
+        "category": "тактика",
+        "difficulty": "легкая",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "11",
+        "questions": [
+        {
+            "image_path": "prophet/easy/121.png",
+            "correct": "Ne6"
+        },
+        {
+            "image_path": "prophet/easy/122.png",
+            "correct": "Rd7"
+        },
+        {
+            "image_path": "prophet/easy/123.png",
+            "correct": "Rh6"
+        },
+        {
+            "image_path": "prophet/easy/124.png",
+            "correct": "Rd6"
+        },
+        {
+            "image_path": "prophet/easy/125.png",
+            "correct": "Qb6"
+        },
+        {
+            "image_path": "prophet/easy/126.png",
+            "correct": "Bf7"
+        },
+        {
+            "image_path": "prophet/easy/127.png",
+            "correct": "Qg8"
+        },
+        {
+            "image_path": "prophet/easy/128.png",
+            "correct": "Qd5"
+        },
+        {
+            "image_path": "prophet/easy/129.png",
+            "correct": "Ng3"
+        },
+        {
+            "image_path": "prophet/easy/130.png",
+            "correct": "Rf7"
+        },
+        {
+            "image_path": "prophet/easy/131.png",
+            "correct": "Rc4"
+        },
+        {
+            "image_path": "prophet/easy/132.png",
+            "correct": "Ng6"
+        }
+        ]
+  },
+
+   {
+        "id": "easy_prophet_12",
+        "title": "Два хода в уме",
+        "category": "тактика",
+        "difficulty": "легкая",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "12",
+        "questions": [
+        {
+            "image_path": "prophet/easy/133.png",
+            "correct": "Ne5"
+        },
+        {
+            "image_path": "prophet/easy/134.png",
+            "correct": "Bh7"
+        },
+        {
+            "image_path": "prophet/easy/135.png",
+            "correct": "Re8"
+        },
+        {
+            "image_path": "prophet/easy/136.png",
+            "correct": "Rb6"
+        },
+        {
+            "image_path": "prophet/easy/137.png",
+            "correct": "Re7"
+        },
+        {
+            "image_path": "prophet/easy/138.png",
+            "correct": "Rh6"
+        },
+        {
+            "image_path": "prophet/easy/139.png",
+            "correct": "Qd7"
+        },
+        {
+            "image_path": "prophet/easy/140.png",
+            "correct": "Bh7"
+        },
+        {
+            "image_path": "prophet/easy/141.png",
+            "correct": "Rd8"
+        },
+        {
+            "image_path": "prophet/easy/142.png",
+            "correct": "Rb7"
+        },
+        {
+            "image_path": "prophet/easy/143.png",
+            "correct": "Qh6"
+        },
+        {
+            "image_path": "prophet/easy/144.png",
+            "correct": "Re6"
+        }
+        ]
+  },
+
+
+  {
+        "id": "opposite_prophet_1",
+        "title": "Два хода в уме. Глазами соперника",
+        "category": "тактика",
+        "difficulty": "легкая",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "13",
+        "questions": [
+        {
+            "image_path": "prophet/easy/opposite/1.png",
+            "correct": "Re5"
+        },
+        {
+            "image_path": "prophet/easy/opposite/2.png",
+            "correct": "Rd6"
+        },
+        {
+            "image_path": "prophet/easy/opposite/3.png",
+            "correct": "Qf1"
+        },
+        {
+            "image_path": "prophet/easy/opposite/4.png",
+            "correct": "Rd4"
+        },
+        {
+            "image_path": "prophet/easy/opposite/5.png",
+            "correct": "Qd2"
+        },
+        {
+            "image_path": "prophet/easy/opposite/6.png",
+            "correct": "Ne2"
+        },
+        {
+            "image_path": "prophet/easy/opposite/7.png",
+            "correct": "Qe2"
+        },
+        {
+            "image_path": "prophet/easy/opposite/8.png",
+            "correct": "Nd3"
+        },
+        {
+            "image_path": "prophet/easy/opposite/9.png",
+            "correct": "Rh2"
+        },
+        {
+            "image_path": "prophet/easy/opposite/10.png",
+            "correct": "Qb4"
+        },
+        {
+            "image_path": "prophet/easy/opposite/11.png",
+            "correct": "Nd3"
+        },
+        {
+            "image_path": "prophet/easy/opposite/12.png",
+            "correct": "Nc4"
+        }
+        ]
+  },
+{
+        "id": "opposite_prophet_2",
+        "title": "Два хода в уме. Глазами соперника",
+        "category": "тактика",
+        "difficulty": "легкая",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "14",
+        "questions": [
+        {
+            "image_path": "prophet/easy/opposite/13.png",
+            "correct": "Bb6"
+        },
+        {
+            "image_path": "prophet/easy/opposite/14.png",
+            "correct": "Qf2"
+        },
+        {
+            "image_path": "prophet/easy/opposite/15.png",
+            "correct": "Bc2"
+        },
+        {
+            "image_path": "prophet/easy/opposite/16.png",
+            "correct": "Qd1"
+        },
+        {
+            "image_path": "prophet/easy/opposite/17.png",
+            "correct": "Re4"
+        },
+        {
+            "image_path": "prophet/easy/opposite/18.png",
+            "correct": "Qf2"
+        },
+        {
+            "image_path": "prophet/easy/opposite/19.png",
+            "correct": "Rg2"
+        },
+        {
+            "image_path": "prophet/easy/opposite/20.png",
+            "correct": "Rc3"
+        },
+        {
+            "image_path": "prophet/easy/opposite/21.png",
+            "correct": "Qc2"
+        },
+        {
+            "image_path": "prophet/easy/opposite/22.png",
+            "correct": "Rd3"
+        },
+        {
+            "image_path": "prophet/easy/opposite/23.png",
+            "correct": "Rf2"
+        },
+        {
+            "image_path": "prophet/easy/opposite/24.png",
+            "correct": "Rd2"
+        }
+        ]
+  },
+  {
+        "id": "opposite_prophet_3",
+        "title": "Два хода в уме. Глазами соперника",
+        "category": "тактика",
+        "difficulty": "легкая",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "15",
+        "questions": [
+        {
+            "image_path": "prophet/easy/opposite/25.png",
+            "correct": "Rd1"
+        },
+        {
+            "image_path": "prophet/easy/opposite/26.png",
+            "correct": "Qh2"
+        },
+        {
+            "image_path": "prophet/easy/opposite/27.png",
+            "correct": "Qe2"
+        },
+        {
+            "image_path": "prophet/easy/opposite/28.png",
+            "correct": "Rg1"
+        },
+        {
+            "image_path": "prophet/easy/opposite/29.png",
+            "correct": "Rf3"
+        },
+        {
+            "image_path": "prophet/easy/opposite/30.png",
+            "correct": "Rc4"
+        },
+        {
+            "image_path": "prophet/easy/opposite/31.png",
+            "correct": "Qd2"
+        },
+        {
+            "image_path": "prophet/easy/opposite/32.png",
+            "correct": "Rf4"
+        },
+        {
+            "image_path": "prophet/easy/opposite/33.png",
+            "correct": "Qf1"
+        },
+        {
+            "image_path": "prophet/easy/opposite/34.png",
+            "correct": "Bf3"
+        },
+        {
+            "image_path": "prophet/easy/opposite/35.png",
+            "correct": "Ra1"
+        },
+        {
+            "image_path": "prophet/easy/opposite/36.png",
+            "correct": "Rf2"
+        }
+        ]
+  },
+  {
+        "id": "opposite_prophet_4",
+        "title": "Два хода в уме. Глазами соперника",
+        "category": "тактика",
+        "difficulty": "легкая",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "16",
+        "questions": [
+        {
+            "image_path": "prophet/easy/opposite/37.png",
+            "correct": "Rf1"
+        },
+        {
+            "image_path": "prophet/easy/opposite/38.png",
+            "correct": "Qh2"
+        },
+        {
+            "image_path": "prophet/easy/opposite/39.png",
+            "correct": "Qf1"
+        },
+        {
+            "image_path": "prophet/easy/opposite/40.png",
+            "correct": "Re4"
+        },
+        {
+            "image_path": "prophet/easy/opposite/41.png",
+            "correct": "Qg2"
+        },
+        {
+            "image_path": "prophet/easy/opposite/42.png",
+            "correct": "Qb2"
+        },
+        {
+            "image_path": "prophet/easy/opposite/43.png",
+            "correct": "Bf5"
+        },
+        {
+            "image_path": "prophet/easy/opposite/44.png",
+            "correct": "Bg2"
+        },
+        {
+            "image_path": "prophet/easy/opposite/45.png",
+            "correct": "gf"
+        },
+        {
+            "image_path": "prophet/easy/opposite/46.png",
+            "correct": "Nc3"
+        },
+        {
+            "image_path": "prophet/easy/opposite/47.png",
+            "correct": "Nb2"
+        },
+        {
+            "image_path": "prophet/easy/opposite/48.png",
+            "correct": "Nf3"
+        }
+        ]
+  },
+  {
+        "id": "opposite_prophet_5",
+        "title": "Два хода в уме. Глазами соперника",
+        "category": "тактика",
+        "difficulty": "легкая",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "17",
+        "questions": [
+        {
+            "image_path": "prophet/easy/opposite/49.png",
+            "correct": "Re3"
+        },
+        {
+            "image_path": "prophet/easy/opposite/50.png",
+            "correct": "Qa7"
+        },
+        {
+            "image_path": "prophet/easy/opposite/51.png",
+            "correct": "Ne2"
+        },
+        {
+            "image_path": "prophet/easy/opposite/52.png",
+            "correct": "Re3"
+        },
+        {
+            "image_path": "prophet/easy/opposite/53.png",
+            "correct": "Rc2"
+        },
+        {
+            "image_path": "prophet/easy/opposite/54.png",
+            "correct": "Rh2"
+        },
+        {
+            "image_path": "prophet/easy/opposite/55.png",
+            "correct": "Rh3"
+        },
+        {
+            "image_path": "prophet/easy/opposite/56.png",
+            "correct": "Ra1"
+        },
+        {
+            "image_path": "prophet/easy/opposite/57.png",
+            "correct": "Nf4"
+        },
+        {
+            "image_path": "prophet/easy/opposite/58.png",
+            "correct": "Ne3"
+        },
+        {
+            "image_path": "prophet/easy/opposite/59.png",
+            "correct": "Rb2"
+        },
+        {
+            "image_path": "prophet/easy/opposite/60.png",
+            "correct": "Qg2"
+        }
+        ]
+  },
+  {
+        "id": "opposite_prophet_6",
+        "title": "Два хода в уме. Глазами соперника",
+        "category": "тактика",
+        "difficulty": "легкая",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "18",
+        "questions": [
+        {
+            "image_path": "prophet/easy/opposite/61.png",
+            "correct": "Rb2"
+        },
+        {
+            "image_path": "prophet/easy/opposite/62.png",
+            "correct": "Nd5"
+        },
+        {
+            "image_path": "prophet/easy/opposite/63.png",
+            "correct": "Rd5"
+        },
+        {
+            "image_path": "prophet/easy/opposite/64.png",
+            "correct": "Rd1"
+        },
+        {
+            "image_path": "prophet/easy/opposite/65.png",
+            "correct": "Nd2"
+        },
+        {
+            "image_path": "prophet/easy/opposite/66.png",
+            "correct": "Bg4"
+        },
+        {
+            "image_path": "prophet/easy/opposite/67.png",
+            "correct": "Rf3"
+        },
+        {
+            "image_path": "prophet/easy/opposite/68.png",
+            "correct": "Qg2"
+        },
+        {
+            "image_path": "prophet/easy/opposite/69.png",
+            "correct": "Rg2"
+        },
+        {
+            "image_path": "prophet/easy/opposite/70.png",
+            "correct": "Be4"
+        },
+        {
+            "image_path": "prophet/easy/opposite/71.png",
+            "correct": "c3"
+        },
+        {
+            "image_path": "prophet/easy/opposite/72.png",
+            "correct": "Rg3"
+        }
+        ]
+  },
+
+  {
+        "id": "medium_prophet",
+        "title": "Три хода в уме",
+        "category": "тактика",
+        "difficulty": "средняя",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "19",
+        "questions": [
+        {
+            "image_path": "prophet/medium/1.png",
+            "correct": "Qd8"
+        },
+        {
+            "image_path": "prophet/medium/2.png",
+            "correct": "Rh7"
+        },
+        {
+            "image_path": "prophet/medium/3.png",
+            "correct": "Bg7"
+        },
+        {
+            "image_path": "prophet/medium/4.png",
+            "correct": "Nd6"
+        },
+        {
+            "image_path": "prophet/medium/5.png",
+            "correct": "Rg7"
+        },
+        {
+            "image_path": "prophet/medium/6.png",
+            "correct": "Rh5"
+        },
+        {
+            "image_path": "prophet/medium/7.png",
+            "correct": "Qf7"
+        },
+        {
+            "image_path": "prophet/medium/8.png",
+            "correct": "Rf8"
+        },
+        {
+            "image_path": "prophet/medium/9.png",
+            "correct": "Nh5"
+        },
+        {
+            "image_path": "prophet/medium/10.png",
+            "correct": "Rd5"
+        },
+        {
+            "image_path": "prophet/medium/11.png",
+            "correct": "Bh6"
+        },
+        {
+            "image_path": "prophet/medium/12.png",
+            "correct": "Rd5"
+        }
+        ]
+  },
+
+  {
+        "id": "medium_prophet",
+        "title": "Три хода в уме",
+        "category": "тактика",
+        "difficulty": "средняя",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "20",
+        "questions": [
+        {
+            "image_path": "prophet/medium/13.png",
+            "correct": "Rh6"
+        },
+        {
+            "image_path": "prophet/medium/14.png",
+            "correct": "Rh7"
+        },
+        {
+            "image_path": "prophet/medium/15.png",
+            "correct": "Rc6"
+        },
+        {
+            "image_path": "prophet/medium/16.png",
+            "correct": "Re2"
+        },
+        {
+            "image_path": "prophet/medium/17.png",
+            "correct": "Ne5"
+        },
+        {
+            "image_path": "prophet/medium/18.png",
+            "correct": "Re6"
+        },
+        {
+            "image_path": "prophet/medium/19.png",
+            "correct": "Re8"
+        },
+        {
+            "image_path": "prophet/medium/20.png",
+            "correct": "Nc7"
+        },
+        {
+            "image_path": "prophet/medium/21.png",
+            "correct": "Qe5"
+        },
+        {
+            "image_path": "prophet/medium/22.png",
+            "correct": "Rd5"
+        },
+        {
+            "image_path": "prophet/medium/23.png",
+            "correct": "Ne6"
+        },
+        {
+            "image_path": "prophet/medium/24.png",
+            "correct": "Re7"
+        }
+        ]
+  },
+
+  {
+        "id": "medium_prophet",
+        "title": "Три хода в уме",
+        "category": "тактика",
+        "difficulty": "средняя",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "21",
+        "questions": [
+        {
+            "image_path": "prophet/medium/25.png",
+            "correct": "Ra8"
+        },
+        {
+            "image_path": "prophet/medium/26.png",
+            "correct": "Nh5"
+        },
+        {
+            "image_path": "prophet/medium/27.png",
+            "correct": "Rb2"
+        },
+        {
+            "image_path": "prophet/medium/28.png",
+            "correct": "Rf5"
+        },
+        {
+            "image_path": "prophet/medium/29.png",
+            "correct": "Nc6"
+        },
+        {
+            "image_path": "prophet/medium/30.png",
+            "correct": "Na6"
+        },
+        {
+            "image_path": "prophet/medium/31.png",
+            "correct": "Ra8"
+        },
+        {
+            "image_path": "prophet/medium/32.png",
+            "correct": "Rd7"
+        },
+        {
+            "image_path": "prophet/medium/33.png",
+            "correct": "Rd4"
+        },
+        {
+            "image_path": "prophet/medium/34.png",
+            "correct": "Rc5"
+        },
+        {
+            "image_path": "prophet/medium/35.png",
+            "correct": "Rd7"
+        },
+        {
+            "image_path": "prophet/medium/36.png",
+            "correct": "Qe8"
+        }
+        ]
+  },
+
+  {
+        "id": "medium_prophet",
+        "title": "Три хода в уме",
+        "category": "тактика",
+        "difficulty": "средняя",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "22",
+        "questions": [
+        {
+            "image_path": "prophet/medium/37.png",
+            "correct": "Rd5"
+        },
+        {
+            "image_path": "prophet/medium/38.png",
+            "correct": "Rh7"
+        },
+        {
+            "image_path": "prophet/medium/39.png",
+            "correct": "Qc3"
+        },
+        {
+            "image_path": "prophet/medium/40.png",
+            "correct": "Rh5"
+        },
+        {
+            "image_path": "prophet/medium/41.png",
+            "correct": "Ree5"
+        },
+        {
+            "image_path": "prophet/medium/42.png",
+            "correct": "Rf7"
+        },
+        {
+            "image_path": "prophet/medium/43.png",
+            "correct": "Ng6"
+        },
+        {
+            "image_path": "prophet/medium/44.png",
+            "correct": "Bg6"
+        },
+        {
+            "image_path": "prophet/medium/45.png",
+            "correct": "Rf6"
+        },
+        {
+            "image_path": "prophet/medium/46.png",
+            "correct": "Re6"
+        },
+        {
+            "image_path": "prophet/medium/47.png",
+            "correct": "Rb3"
+        },
+        {
+            "image_path": "prophet/medium/48.png",
+            "correct": "Bh7"
+        }
+        ]
+  },
+
+  {
+        "id": "medium_prophet",
+        "title": "Три хода в уме",
+        "category": "тактика",
+        "difficulty": "средняя",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "23",
+        "questions": [
+        {
+            "image_path": "prophet/medium/49.png",
+            "correct": "Re8"
+        },
+        {
+            "image_path": "prophet/medium/50.png",
+            "correct": "Re7"
+        },
+        {
+            "image_path": "prophet/medium/51.png",
+            "correct": "Rf7"
+        },
+        {
+            "image_path": "prophet/medium/52.png",
+            "correct": "Nf5"
+        },
+        {
+            "image_path": "prophet/medium/53.png",
+            "correct": "Rc8"
+        },
+        {
+            "image_path": "prophet/medium/54.png",
+            "correct": "Qg8"
+        },
+        {
+            "image_path": "prophet/medium/55.png",
+            "correct": "Rg7"
+        },
+        {
+            "image_path": "prophet/medium/56.png",
+            "correct": "Rd4"
+        },
+        {
+            "image_path": "prophet/medium/57.png",
+            "correct": "Rd8"
+        },
+        {
+            "image_path": "prophet/medium/58.png",
+            "correct": "Ng6"
+        },
+        {
+            "image_path": "prophet/medium/59.png",
+            "correct": "Rd7"
+        },
+        {
+            "image_path": "prophet/medium/60.png",
+            "correct": "Qf6"
+        }
+        ]
+  },
+
+  {
+        "id": "medium_prophet",
+        "title": "Три хода в уме",
+        "category": "тактика",
+        "difficulty": "средняя",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "24",
+        "questions": [
+        {
+            "image_path": "prophet/medium/61.png",
+            "correct": "Rg7"
+        },
+        {
+            "image_path": "prophet/medium/62.png",
+            "correct": "Rh7"
+        },
+        {
+            "image_path": "prophet/medium/63.png",
+            "correct": "Re8"
+        },
+        {
+            "image_path": "prophet/medium/64.png",
+            "correct": "Rf5"
+        },
+        {
+            "image_path": "prophet/medium/65.png",
+            "correct": "Rde6"
+        },
+        {
+            "image_path": "prophet/medium/66.png",
+            "correct": "Rc7"
+        },
+        {
+            "image_path": "prophet/medium/67.png",
+            "correct": "Rg7"
+        },
+        {
+            "image_path": "prophet/medium/68.png",
+            "correct": "Rd6"
+        },
+        {
+            "image_path": "prophet/medium/69.png",
+            "correct": "Be5"
+        },
+        {
+            "image_path": "prophet/medium/70.png",
+            "correct": "Rf6"
+        },
+        {
+            "image_path": "prophet/medium/71.png",
+            "correct": "Rb7"
+        },
+        {
+            "image_path": "prophet/medium/72.png",
+            "correct": "Qh8"
+        }
+        ]
+  },
+
+  {
+        "id": "medium_prophet",
+        "title": "Три хода в уме",
+        "category": "тактика",
+        "difficulty": "средняя",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "25",
+        "questions": [
+        {
+            "image_path": "prophet/medium/73.png",
+            "correct": "Bg7"
+        },
+        {
+            "image_path": "prophet/medium/74.png",
+            "correct": "Re7"
+        },
+        {
+            "image_path": "prophet/medium/75.png",
+            "correct": "Rb6"
+        },
+        {
+            "image_path": "prophet/medium/76.png",
+            "correct": "Qf6"
+        },
+        {
+            "image_path": "prophet/medium/77.png",
+            "correct": "Qf8"
+        },
+        {
+            "image_path": "prophet/medium/78.png",
+            "correct": "Ra6"
+        },
+        {
+            "image_path": "prophet/medium/79.png",
+            "correct": "Rf6"
+        },
+        {
+            "image_path": "prophet/medium/80.png",
+            "correct": "Qg7"
+        },
+        {
+            "image_path": "prophet/medium/81.png",
+            "correct": "Rd5"
+        },
+        {
+            "image_path": "prophet/medium/82.png",
+            "correct": "Rh7"
+        },
+        {
+            "image_path": "prophet/medium/83.png",
+            "correct": "Rc6"
+        },
+        {
+            "image_path": "prophet/medium/84.png",
+            "correct": "Qh7"
+        }
+        ]
+  },
+
+  {
+        "id": "medium_prophet",
+        "title": "Три хода в уме",
+        "category": "тактика",
+        "difficulty": "средняя",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "26",
+        "questions": [
+        {
+            "image_path": "prophet/medium/85.png",
+            "correct": "7.Bc6"
+        },
+        {
+            "image_path": "prophet/medium/86.png",
+            "correct": "6.Nd6"
+        },
+        {
+            "image_path": "prophet/medium/87.png",
+            "correct": "8.Qa4"
+        },
+        {
+            "image_path": "prophet/medium/88.png",
+            "correct": "6.Bf7"
+        },
+        {
+            "image_path": "prophet/medium/89.png",
+            "correct": "7.Qd5"
+        },
+        {
+            "image_path": "prophet/medium/90.png",
+            "correct": "5.Qe5"
+        },
+        {
+            "image_path": "prophet/medium/91.png",
+            "correct": "5.g2"
+        },
+        {
+            "image_path": "prophet/medium/92.png",
+            "correct": "6.Qa4"
+        },
+        {
+            "image_path": "prophet/medium/93.png",
+            "correct": "7.c5"
+        },
+        {
+            "image_path": "prophet/medium/94.png",
+            "correct": "10.Ne5"
+        },
+        {
+            "image_path": "prophet/medium/95.png",
+            "correct": "8.Nf6"
+        },
+        {
+            "image_path": "prophet/medium/96.png",
+            "correct": "7.Bf7"
+        }
+        ]
+  },
+
+  {
+        "id": "medium_prophet",
+        "title": "Три хода в уме",
+        "category": "тактика",
+        "difficulty": "средняя",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "27",
+        "questions": [
+        {
+            "image_path": "prophet/medium/97.png",
+            "correct": "7.Bc6"
+        },
+        {
+            "image_path": "prophet/medium/98.png",
+            "correct": "6.Nd6"
+        },
+        {
+            "image_path": "prophet/medium/99.png",
+            "correct": "8.Qa4"
+        },
+        {
+            "image_path": "prophet/medium/100.png",
+            "correct": "6.Bf7"
+        },
+        {
+            "image_path": "prophet/medium/101.png",
+            "correct": "7.Qd5"
+        },
+        {
+            "image_path": "prophet/medium/102.png",
+            "correct": "5.Qe5"
+        },
+        {
+            "image_path": "prophet/medium/103.png",
+            "correct": "5.g2"
+        },
+        {
+            "image_path": "prophet/medium/104.png",
+            "correct": "6.Qa4"
+        },
+        {
+            "image_path": "prophet/medium/105.png",
+            "correct": "7.c5"
+        },
+        {
+            "image_path": "prophet/medium/106.png",
+            "correct": "10.Ne5"
+        },
+        {
+            "image_path": "prophet/medium/107.png",
+            "correct": "8.Nf6"
+        },
+        {
+            "image_path": "prophet/medium/108.png",
+            "correct": "7.Bf7"
+        }
+        ]
+  },
+
+  {
+        "id": "medium_prophet",
+        "title": "Три хода в уме",
+        "category": "тактика",
+        "difficulty": "средняя",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "28",
+        "questions": [
+        {
+            "image_path": "prophet/medium/109.png",
+            "correct": "7.Bc6"
+        },
+        {
+            "image_path": "prophet/medium/110.png",
+            "correct": "6.Nd6"
+        },
+        {
+            "image_path": "prophet/medium/111.png",
+            "correct": "8.Qa4"
+        },
+        {
+            "image_path": "prophet/medium/112.png",
+            "correct": "6.Bf7"
+        },
+        {
+            "image_path": "prophet/medium/113.png",
+            "correct": "7.Qd5"
+        },
+        {
+            "image_path": "prophet/medium/114.png",
+            "correct": "5.Qe5"
+        },
+        {
+            "image_path": "prophet/medium/115.png",
+            "correct": "5.g2"
+        },
+        {
+            "image_path": "prophet/medium/116.png",
+            "correct": "6.Qa4"
+        },
+        {
+            "image_path": "prophet/medium/117.png",
+            "correct": "7.c5"
+        },
+        {
+            "image_path": "prophet/medium/118.png",
+            "correct": "10.Ne5"
+        },
+        {
+            "image_path": "prophet/medium/119.png",
+            "correct": "8.Nf6"
+        },
+        {
+            "image_path": "prophet/medium/120.png",
+            "correct": "7.Bf7"
+        }
+        ]
+  },
+
+  {
+        "id": "medium_prophet",
+        "title": "Три хода в уме",
+        "category": "тактика",
+        "difficulty": "средняя",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "29",
+        "questions": [
+        {
+            "image_path": "prophet/medium/121.png",
+            "correct": "7.Bc6"
+        },
+        {
+            "image_path": "prophet/medium/122.png",
+            "correct": "6.Nd6"
+        },
+        {
+            "image_path": "prophet/medium/123.png",
+            "correct": "8.Qa4"
+        },
+        {
+            "image_path": "prophet/medium/124.png",
+            "correct": "6.Bf7"
+        },
+        {
+            "image_path": "prophet/medium/125.png",
+            "correct": "7.Qd5"
+        },
+        {
+            "image_path": "prophet/medium/126.png",
+            "correct": "5.Qe5"
+        },
+        {
+            "image_path": "prophet/medium/127.png",
+            "correct": "5.g2"
+        },
+        {
+            "image_path": "prophet/medium/128.png",
+            "correct": "6.Qa4"
+        },
+        {
+            "image_path": "prophet/medium/129.png",
+            "correct": "7.c5"
+        },
+        {
+            "image_path": "prophet/medium/130.png",
+            "correct": "10.Ne5"
+        },
+        {
+            "image_path": "prophet/medium/131.png",
+            "correct": "8.Nf6"
+        },
+        {
+            "image_path": "prophet/medium/132.png",
+            "correct": "7.Bf7"
+        }
+        ]
+  },
+
+  {
+        "id": "medium_prophet",
+        "title": "Три хода в уме",
+        "category": "тактика",
+        "difficulty": "средняя",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "30",
+        "questions": [
+        {
+            "image_path": "prophet/medium/133.png",
+            "correct": "7.Bc6"
+        },
+        {
+            "image_path": "prophet/medium/134.png",
+            "correct": "6.Nd6"
+        },
+        {
+            "image_path": "prophet/medium/135.png",
+            "correct": "8.Qa4"
+        },
+        {
+            "image_path": "prophet/medium/136.png",
+            "correct": "6.Bf7"
+        },
+        {
+            "image_path": "prophet/medium/137.png",
+            "correct": "7.Qd5"
+        },
+        {
+            "image_path": "prophet/medium/138.png",
+            "correct": "5.Qe5"
+        },
+        {
+            "image_path": "prophet/medium/139.png",
+            "correct": "5.g2"
+        },
+        {
+            "image_path": "prophet/medium/140.png",
+            "correct": "6.Qa4"
+        },
+        {
+            "image_path": "prophet/medium/141.png",
+            "correct": "7.c5"
+        },
+        {
+            "image_path": "prophet/medium/142.png",
+            "correct": "10.Ne5"
+        },
+        {
+            "image_path": "prophet/medium/143.png",
+            "correct": "8.Nf6"
+        },
+        {
+            "image_path": "prophet/medium/144.png",
+            "correct": "7.Bf7"
+        }
+        ]
+  },
+
+  {
+        "id": "medium_prophet",
+        "title": "Пять ходов в уме",
+        "category": "тактика",
+        "difficulty": "средний",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "31",
+        "questions": [
+        {
+            "image_path": "prophet/medium/5moves/1.png",
+            "correct": "Rd2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/2.png",
+            "correct": "Rg3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/3.png",
+            "correct": "Rb2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/4.png",
+            "correct": "Rf3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/5.png",
+            "correct": "Nb3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/6.png",
+            "correct": "Ra3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/7.png",
+            "correct": "Qc1"
+        },
+        {
+            "image_path": "prophet/medium/5moves/8.png",
+            "correct": "Nc4"
+        },
+        {
+            "image_path": "prophet/medium/5moves/9.png",
+            "correct": "Rb3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/10.png",
+            "correct": "Rc1"
+        },
+        {
+            "image_path": "prophet/medium/5moves/11.png",
+            "correct": "Rh2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/12.png",
+            "correct": "Re1"
+        }
+        ]
+  },
+  {
+        "id": "medium_prophet",
+        "title": "Пять ходов в уме",
+        "category": "тактика",
+        "difficulty": "средний",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "32",
+        "questions": [
+        {
+            "image_path": "prophet/medium/5moves/13.png",
+            "correct": "Rc3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/14.png",
+            "correct": "Rd1"
+        },
+        {
+            "image_path": "prophet/medium/5moves/15.png",
+            "correct": "Bb3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/16.png",
+            "correct": "Qf1"
+        },
+        {
+            "image_path": "prophet/medium/5moves/17.png",
+            "correct": "Bg4"
+        },
+        {
+            "image_path": "prophet/medium/5moves/18.png",
+            "correct": "Bf2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/19.png",
+            "correct": "Re1"
+        },
+        {
+            "image_path": "prophet/medium/5moves/20.png",
+            "correct": "Nb3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/21.png",
+            "correct": "Rb1"
+        },
+        {
+            "image_path": "prophet/medium/5moves/22.png",
+            "correct": "Nd4"
+        },
+        {
+            "image_path": "prophet/medium/5moves/23.png",
+            "correct": "Nf4"
+        },
+        {
+            "image_path": "prophet/medium/5moves/24.png",
+            "correct": "Qf1"
+        }
+        ]
+  },
+  {
+        "id": "medium_prophet",
+        "title": "Пять ходов в уме",
+        "category": "тактика",
+        "difficulty": "средний",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "33",
+        "questions": [
+        {
+            "image_path": "prophet/medium/5moves/25.png",
+            "correct": "Bd5"
+        },
+        {
+            "image_path": "prophet/medium/5moves/26.png",
+            "correct": "Rf2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/27.png",
+            "correct": "Nc3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/28.png",
+            "correct": "Nc3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/29.png",
+            "correct": "Bf3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/30.png",
+            "correct": "Qe1"
+        },
+        {
+            "image_path": "prophet/medium/5moves/31.png",
+            "correct": "Rg4"
+        },
+        {
+            "image_path": "prophet/medium/5moves/32.png",
+            "correct": "Ba4"
+        },
+        {
+            "image_path": "prophet/medium/5moves/33.png",
+            "correct": "Qf4"
+        },
+        {
+            "image_path": "prophet/medium/5moves/34.png",
+            "correct": "Bh4"
+        },
+        {
+            "image_path": "prophet/medium/5moves/35.png",
+            "correct": "Qg1"
+        },
+        {
+            "image_path": "prophet/medium/5moves/36.png",
+            "correct": "Ng3"
+        }
+        ]
+  },
+  {
+        "id": "medium_prophet",
+        "title": "Пять ходов в уме",
+        "category": "тактика",
+        "difficulty": "средний",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "34",
+        "questions": [
+        {
+            "image_path": "prophet/medium/5moves/37.png",
+            "correct": "Nh3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/38.png",
+            "correct": "Nd3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/39.png",
+            "correct": "Rh2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/40.png",
+            "correct": "Re2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/41.png",
+            "correct": "Re1"
+        },
+        {
+            "image_path": "prophet/medium/5moves/42.png",
+            "correct": "Qf3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/43.png",
+            "correct": "Qh2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/44.png",
+            "correct": "Nc2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/45.png",
+            "correct": "Nd2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/46.png",
+            "correct": "Qc1"
+        },
+        {
+            "image_path": "prophet/medium/5moves/47.png",
+            "correct": "Qe4"
+        },
+        {
+            "image_path": "prophet/medium/5moves/48.png",
+            "correct": "Nd3"
+        }
+        ]
+  },
+  {
+        "id": "medium_prophet",
+        "title": "Пять ходов в уме",
+        "category": "тактика",
+        "difficulty": "средний",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "35",
+        "questions": [
+        {
+            "image_path": "prophet/medium/5moves/49.png",
+            "correct": "Rd4"
+        },
+        {
+            "image_path": "prophet/medium/5moves/50.png",
+            "correct": "Qd1"
+        },
+        {
+            "image_path": "prophet/medium/5moves/51.png",
+            "correct": "Nd5"
+        },
+        {
+            "image_path": "prophet/medium/5moves/52.png",
+            "correct": "Rc2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/53.png",
+            "correct": "Rf3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/54.png",
+            "correct": "Rh4"
+        },
+        {
+            "image_path": "prophet/medium/5moves/55.png",
+            "correct": "Rd3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/56.png",
+            "correct": "Re1"
+        },
+        {
+            "image_path": "prophet/medium/5moves/57.png",
+            "correct": "Qh3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/58.png",
+            "correct": "Ra2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/59.png",
+            "correct": "Rf1"
+        },
+        {
+            "image_path": "prophet/medium/5moves/60.png",
+            "correct": "Nf2"
+        }
+        ]
+  },
+  {
+        "id": "medium_prophet",
+        "title": "Пять ходов в уме",
+        "category": "тактика",
+        "difficulty": "средний",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "36",
+        "questions": [
+        {
+            "image_path": "prophet/medium/5moves/61.png",
+            "correct": "Rg1"
+        },
+        {
+            "image_path": "prophet/medium/5moves/62.png",
+            "correct": "Ra1"
+        },
+        {
+            "image_path": "prophet/medium/5moves/63.png",
+            "correct": "Qb2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/64.png",
+            "correct": "Rd3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/65.png",
+            "correct": "Rb2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/66.png",
+            "correct": "Re1"
+        },
+        {
+            "image_path": "prophet/medium/5moves/67.png",
+            "correct": "Nf3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/68.png",
+            "correct": "Ne2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/69.png",
+            "correct": "Ra3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/70.png",
+            "correct": "Rc2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/71.png",
+            "correct": "Rb2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/72.png",
+            "correct": "Qc5"
+        }
+        ]
+  },
+ {
+        "id": "medium_prophet",
+        "title": "Пять ходов в уме",
+        "category": "тактика",
+        "difficulty": "средний",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "37",
+        "questions": [
+        {
+            "image_path": "prophet/medium/5moves/73.png",
+            "correct": "Rc3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/74.png",
+            "correct": "Qh3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/75.png",
+            "correct": "Rg3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/76.png",
+            "correct": "Qd4"
+        },
+        {
+            "image_path": "prophet/medium/5moves/77.png",
+            "correct": "Rg2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/78.png",
+            "correct": "Nd4"
+        },
+        {
+            "image_path": "prophet/medium/5moves/79.png",
+            "correct": "Rc3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/80.png",
+            "correct": "Rd4"
+        },
+        {
+            "image_path": "prophet/medium/5moves/81.png",
+            "correct": "Nf3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/82.png",
+            "correct": "Rc6"
+        },
+        {
+            "image_path": "prophet/medium/5moves/83.png",
+            "correct": "Nd3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/84.png",
+            "correct": "c2"
+        }
+        ]
+  },
+   {
+        "id": "medium_prophet",
+        "title": "Пять ходов в уме",
+        "category": "тактика",
+        "difficulty": "средний",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "38",
+        "questions": [
+        {
+            "image_path": "prophet/medium/5moves/85.png",
+            "correct": "Qd6"
+        },
+        {
+            "image_path": "prophet/medium/5moves/86.png",
+            "correct": "Rh1"
+        },
+        {
+            "image_path": "prophet/medium/5moves/87.png",
+            "correct": "Rf2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/88.png",
+            "correct": "Rc2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/89.png",
+            "correct": "Qe1"
+        },
+        {
+            "image_path": "prophet/medium/5moves/90.png",
+            "correct": "Re4"
+        },
+        {
+            "image_path": "prophet/medium/5moves/91.png",
+            "correct": "a2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/92.png",
+            "correct": "Rc3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/93.png",
+            "correct": "Ne3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/94.png",
+            "correct": "Rb3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/95.png",
+            "correct": "Rd2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/96.png",
+            "correct": "Rc1"
+        }
+        ]
+  },
+   {
+        "id": "medium_prophet",
+        "title": "Пять ходов в уме",
+        "category": "тактика",
+        "difficulty": "средний",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "39",
+        "questions": [
+        {
+            "image_path": "prophet/medium/5moves/97.png",
+            "correct": "Nf4"
+        },
+        {
+            "image_path": "prophet/medium/5moves/98.png",
+            "correct": "Rh2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/99.png",
+            "correct": "Bg2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/100.png",
+            "correct": "Qd3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/101.png",
+            "correct": "Re2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/102.png",
+            "correct": "Rc2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/103.png",
+            "correct": "Nd3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/104.png",
+            "correct": "Re6"
+        },
+        {
+            "image_path": "prophet/medium/5moves/105.png",
+            "correct": "Rc3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/106.png",
+            "correct": "Rc3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/107.png",
+            "correct": "Rf3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/108.png",
+            "correct": "Nc3"
+        }
+        ]
+  },
+   {
+        "id": "medium_prophet",
+        "title": "Пять ходов в уме",
+        "category": "тактика",
+        "difficulty": "средний",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "40",
+        "questions": [
+        {
+            "image_path": "prophet/medium/5moves/109.png",
+            "correct": "Be3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/110.png",
+            "correct": "Rc1"
+        },
+        {
+            "image_path": "prophet/medium/5moves/111.png",
+            "correct": "Qg3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/112.png",
+            "correct": "Qf3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/113.png",
+            "correct": "Nf5"
+        },
+        {
+            "image_path": "prophet/medium/5moves/114.png",
+            "correct": "Ra3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/115.png",
+            "correct": "Nf3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/116.png",
+            "correct": "Bf3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/117.png",
+            "correct": "Rb3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/118.png",
+            "correct": "Nc3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/119.png",
+            "correct": "Rh4"
+        },
+        {
+            "image_path": "prophet/medium/5moves/120.png",
+            "correct": "Rf3"
+        }
+        ]
+  },
+   {
+        "id": "medium_prophet",
+        "title": "Пять ходов в уме",
+        "category": "тактика",
+        "difficulty": "средний",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "text": "Прочитай будущее и найди выигрывающий ход ⚡",
+        "number": "41",
+        "questions": [
+        {
+            "image_path": "prophet/medium/5moves/97.png",
+            "correct": "Rd2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/98.png",
+            "correct": "Rg3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/99.png",
+            "correct": "Rb2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/100.png",
+            "correct": "Rf3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/101.png",
+            "correct": "Nb3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/102.png",
+            "correct": "Ra3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/103.png",
+            "correct": "Qc1"
+        },
+        {
+            "image_path": "prophet/medium/5moves/104.png",
+            "correct": "Nc4"
+        },
+        {
+            "image_path": "prophet/medium/5moves/105.png",
+            "correct": "Rb3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/106.png",
+            "correct": "Rc1"
+        },
+        {
+            "image_path": "prophet/medium/5moves/107.png",
+            "correct": "Rh2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/108.png",
+            "correct": "Re1"
+        }
+        ]
+  },
+   {
+        "id": "medium_prophet",
+        "title": "Пять ходов в уме",
+        "category": "тактика",
+        "difficulty": "средний",
+        "text": "Прочитай будущее и найди победу!",
+        "number_of_ex": "12",
+        "number": "42",
+        "questions": [
+        {
+            "image_path": "prophet/medium/5moves/109.png",
+            "correct": "Rd2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/110.png",
+            "correct": "Rg3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/111.png",
+            "correct": "Rb2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/112.png",
+            "correct": "Rf3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/113.png",
+            "correct": "Nb3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/114.png",
+            "correct": "Ra3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/115.png",
+            "correct": "Qc1"
+        },
+        {
+            "image_path": "prophet/medium/5moves/116.png",
+            "correct": "Nc4"
+        },
+        {
+            "image_path": "prophet/medium/5moves/117.png",
+            "correct": "Rb3"
+        },
+        {
+            "image_path": "prophet/medium/5moves/118.png",
+            "correct": "Rc1"
+        },
+        {
+            "image_path": "prophet/medium/5moves/119.png",
+            "correct": "Rh2"
+        },
+        {
+            "image_path": "prophet/medium/5moves/120.png",
+            "correct": "Re1"
+        }
+        ]
+  },
+{
+        "id": "hard_prophet8_1",
+        "title": "Машина времени",
+        "category": "тактика",
+        "difficulty": "выше среднего",
+        "text": "Прокрути партию в уме. Найди на каком ходу была совершена ошибка и исправь её в формате 4.Qa4 за белых, и 4...Nd5 за черных",
+        "number_of_ex": "12",
+        "number": "43",
+        "zero_position": "prophet/hard/zero_position.png",
+        "questions": [
+        {
+            "image_path": "prophet/hard/8/1.png",
+            "correct": "7.Bc6"
+        },
+        {
+            "image_path": "prophet/hard/8/2.png",
+            "correct": "6.Nd6"
+        },
+        {
+            "image_path": "prophet/hard/8/3.png",
+            "correct": "8.Qa4"
+        },
+        {
+            "image_path": "prophet/hard/8/4.png",
+            "correct": "6.Bf7"
+        },
+        {
+            "image_path": "prophet/hard/8/5.png",
+            "correct": "7.Qd5"
+        },
+        {
+            "image_path": "prophet/hard/8/6.png",
+            "correct": "5...g2"
+        },
+        {
+            "image_path": "prophet/hard/8/7.png",
+            "correct": "6.Qa4"
+        },
+        {
+            "image_path": "prophet/hard/8/8.png",
+            "correct": "7.c5"
+        },
+        {
+            "image_path": "prophet/hard/8/9.png",
+            "correct": "8.Ne5"
+        },
+        {
+            "image_path": "prophet/hard/8/10.png",
+            "correct": "7.Bf7"
+        },
+        {
+            "image_path": "prophet/hard/8/11.png",
+            "correct": "6.Qf3"
+        },
+        {
+            "image_path": "prophet/hard/8/12.png",
+            "correct": "5.d5"
+        }
+        ]
+  },
+
+{
+        "id": "hard_prophet8_2",
+        "title": "Машина времени",
+        "category": "тактика",
+        "difficulty": "выше среднего",
+        "text": "Прокрути партию в уме. Найди на каком ходу была совершена ошибка и исправь её в формате 4.Qa4 за белых, и 4...Nd5 за черных",
+        "number_of_ex": "12",
+        "number": "44",
+        "zero_position": "prophet/hard/zero_position.png",
+        "questions": [
+        {
+            "image_path": "prophet/hard/8/13.png",
+            "correct": "6.Qa4?"
+        },
+        {
+            "image_path": "prophet/hard/8/14.png",
+            "correct": "7.Ba6"
+        },
+        {
+            "image_path": "prophet/hard/8/15.png",
+            "correct": "8.Bf7"
+        },
+        {
+            "image_path": "prophet/hard/8/16.png",
+            "correct": "4...Qa5"
+        },
+        {
+            "image_path": "prophet/hard/8/17.png",
+            "correct": "6.Bf7"
+        },
+        {
+            "image_path": "prophet/hard/8/18.png",
+            "correct": "7.Qa4"
+        },
+        {
+            "image_path": "prophet/hard/8/19.png",
+            "correct": "7.Nd5"
+        },
+        {
+            "image_path": "prophet/hard/8/20.png",
+            "correct": "6.Ne5"
+        },
+        {
+            "image_path": "prophet/hard/8/21.png",
+            "correct": "3.Bf7"
+        },
+        {
+            "image_path": "prophet/hard/8/22.png",
+            "correct": "7.Qb5"
+        },
+        {
+            "image_path": "prophet/hard/8/23.png",
+            "correct": "8.Nbd4"
+        },
+        {
+            "image_path": "prophet/hard/8/24.png",
+            "correct": "7.Ne6"
+        }
+        ]
+  },
+{
+        "id": "hard_prophet8_3",
+        "title": "Машина времени",
+        "category": "тактика",
+        "difficulty": "выше среднего",
+        "text": "Прокрути партию в уме. Найди на каком ходу была совершена ошибка и исправь её в формате 4.Qa4 за белых, и 4...Nd5 за черных",
+        "number_of_ex": "12",
+        "number": "45",
+        "zero_position": "prophet/hard/zero_position.png",
+        "questions": [
+        {
+            "image_path": "prophet/hard/8/25.png",
+            "correct": "5...Ne5"
+        },
+        {
+            "image_path": "prophet/hard/8/26.png",
+            "correct": "8.Qd5"
+        },
+        {
+            "image_path": "prophet/hard/8/27.png",
+            "correct": "7...Bf2"
+        },
+        {
+            "image_path": "prophet/hard/8/28.png",
+            "correct": "7...Nf2"
+        },
+        {
+            "image_path": "prophet/hard/8/29.png",
+            "correct": "7.Ne5"
+        },
+        {
+            "image_path": "prophet/hard/8/30.png",
+            "correct": "8.Nf7"
+        },
+        {
+            "image_path": "prophet/hard/8/31.png",
+            "correct": "8.d5"
+        },
+        {
+            "image_path": "prophet/hard/8/32.png",
+            "correct": "7...Nc3"
+        },
+        {
+            "image_path": "prophet/hard/8/33.png",
+            "correct": "6.e5"
+        },
+        {
+            "image_path": "prophet/hard/8/34.png",
+            "correct": "6...Bb4"
+        },
+        {
+            "image_path": "prophet/hard/8/35.png",
+            "correct": "6...ef"
+        },
+        {
+            "image_path": "prophet/hard/8/36.png",
+            "correct": "5.Bf7?"
+        }
+        ]
+  },
+
+  {
+        "id": "hard_prophet8_4",
+        "title": "Машина времени",
+        "category": "тактика",
+        "difficulty": "выше среднего",
+        "text": "Прокрути партию в уме. Найди на каком ходу была совершена ошибка и исправь её в формате 4.Qa4 за белых, и 4...Nd5 за черных",
+        "number_of_ex": "9",
+        "number": "46",
+        "zero_position": "prophet/hard/zero_position.png",
+        "questions": [
+        {
+            "image_path": "prophet/hard/8/37.png",
+            "correct": "7.Ne5"
+        },
+        {
+            "image_path": "prophet/hard/8/38.png",
+            "correct": "8.Qf3"
+        },
+        {
+            "image_path": "prophet/hard/8/39.png",
+            "correct": "8.Ng3"
+        },
+        {
+            "image_path": "prophet/hard/8/40.png",
+            "correct": "5...g5"
+        },
+        {
+            "image_path": "prophet/hard/8/41.png",
+            "correct": "7.Ne5"
+        },
+        {
+            "image_path": "prophet/hard/8/42.png",
+            "correct": "7.Bf7"
+        },
+        {
+            "image_path": "prophet/hard/8/43.png",
+            "correct": "6.Ne5"
+        },
+        {
+            "image_path": "prophet/hard/8/44.png",
+            "correct": "7...Rh4"
+        },
+        {
+            "image_path": "prophet/hard/8/45.png",
+            "correct": "5.Ke2"
+        }
+        ]
+  },
+
+  {
+        "id": "hard_prophet10_1",
+        "title": "Машина времени",
+        "category": "тактика",
+        "difficulty": "выше среднего",
+        "text": "Прокрути партию в уме. Найди на каком ходу была совершена ошибка и исправь её в формате 4.Qa4 за белых, и 4...Nd5 за черных",
+        "number_of_ex": "12",
+        "number": "47",
+        "zero_position": "prophet/hard/zero_position.png",
+        "questions": [
+        {
+            "image_path": "prophet/hard/10/1.png",
+            "correct": "7...Bb5"
+        },
+        {
+            "image_path": "prophet/hard/10/2.png",
+            "correct": "8...Ne4"
+        },
+        {
+            "image_path": "prophet/hard/10/3.png",
+            "correct": "8...Nd5"
+        },
+        {
+            "image_path": "prophet/hard/10/4.png",
+            "correct": "9.Bb5"
+        },
+        {
+            "image_path": "prophet/hard/10/5.png",
+            "correct": "10.Bb5"
+        },
+        {
+            "image_path": "prophet/hard/10/6.png",
+            "correct": "9.Ng6"
+        },
+        {
+            "image_path": "prophet/hard/10/7.png",
+            "correct": "9.Nc5"
+        },
+        {
+            "image_path": "prophet/hard/10/8.png",
+            "correct": "8...Qc7"
+        },
+        {
+            "image_path": "prophet/hard/10/9.png",
+            "correct": "9.Nf7"
+        },
+          {
+            "image_path": "prophet/hard/10/10.png",
+            "correct": "7.Bf5"
+        },
+          {
+            "image_path": "prophet/hard/10/11.png",
+            "correct": "7.Ne5"
+        },
+          {
+            "image_path": "prophet/hard/10/12.png",
+            "correct": "8...Qc1"
+        }
+        ]
+  },
+
+  {
+        "id": "hard_prophet10_2",
+        "title": "Машина времени",
+        "category": "тактика",
+        "difficulty": "выше среднего",
+        "text": "Прокрути партию в уме. Найди на каком ходу была совершена ошибка и исправь её в формате 4.Qa4 за белых, и 4...Nd5 за черных",
+        "number_of_ex": "12",
+        "number": "48",
+        "zero_position": "prophet/hard/zero_position.png",
+        "questions": [
+        {
+            "image_path": "prophet/hard/10/13.png",
+            "correct": "9.Nf7"
+        },
+        {
+            "image_path": "prophet/hard/10/14.png",
+            "correct": "8...d4"
+        },
+        {
+            "image_path": "prophet/hard/10/15.png",
+            "correct": "9.Qd8"
+        },
+        {
+            "image_path": "prophet/hard/10/16.png",
+            "correct": "8...Ng5"
+        },
+        {
+            "image_path": "prophet/hard/10/17.png",
+            "correct": "10.Bf6"
+        },
+        {
+            "image_path": "prophet/hard/10/18.png",
+            "correct": "9...Ne4"
+        },
+        {
+            "image_path": "prophet/hard/10/19.png",
+            "correct": "9...dc"
+        },
+        {
+            "image_path": "prophet/hard/10/20.png",
+            "correct": "8...g5"
+        },
+        {
+            "image_path": "prophet/hard/10/21.png",
+            "correct": "8...Rb4"
+        },
+          {
+            "image_path": "prophet/hard/10/22.png",
+            "correct": "8.Bc4"
+        },
+          {
+            "image_path": "prophet/hard/10/23.png",
+            "correct": "8...d5"
+        },
+          {
+            "image_path": "prophet/hard/10/24.png",
+            "correct": "7...Bb4"
+        }
+        ]
+  },
+
+  {
+        "id": "hard_prophet10_3",
+        "title": "Машина времени",
+        "category": "тактика",
+        "difficulty": "выше среднего",
+        "text": "Прокрути партию в уме. Найди на каком ходу была совершена ошибка и исправь её в формате 4.Qa4 за белых, и 4...Nd5 за черных",
+        "number_of_ex": "12",
+        "number": "49",
+        "zero_position": "prophet/hard/zero_position.png",
+        "questions": [
+        {
+            "image_path": "prophet/hard/10/25.png",
+            "correct": "9.Bh6"
+        },
+        {
+            "image_path": "prophet/hard/10/26.png",
+            "correct": "7...g5"
+        },
+        {
+            "image_path": "prophet/hard/10/27.png",
+            "correct": "10.Ng5"
+        },
+        {
+            "image_path": "prophet/hard/10/28.png",
+            "correct": "10.Nf7"
+        },
+        {
+            "image_path": "prophet/hard/10/29.png",
+            "correct": "9.Qa4"
+        },
+        {
+            "image_path": "prophet/hard/10/30.png",
+            "correct": "8.Nb5"
+        },
+        {
+            "image_path": "prophet/hard/10/31.png",
+            "correct": "9.b4"
+        },
+        {
+            "image_path": "prophet/hard/10/32.png",
+            "correct": "8.Bb5"
+        },
+        {
+            "image_path": "prophet/hard/10/33.png",
+            "correct": "9...Ne4"
+        },
+          {
+            "image_path": "prophet/hard/10/34.png",
+            "correct": "8.Nf7?"
+        },
+          {
+            "image_path": "prophet/hard/10/35.png",
+            "correct": "10.Bb5"
+        },
+          {
+            "image_path": "prophet/hard/10/36.png",
+            "correct": "10.Bg5"
+        }
+        ]
+  },
+
+  {
+        "id": "hard_prophet10_4",
+        "title": "Машина времени",
+        "category": "тактика",
+        "difficulty": "выше среднего",
+        "text": "Прокрути партию в уме. Найди на каком ходу была совершена ошибка и исправь её в формате 4.Qa4 за белых, и 4...Nd5 за черных",
+        "number_of_ex": "15",
+        "number": "50",
+        "zero_position": "prophet/hard/zero_position.png",
+        "questions": [
+        {
+            "image_path": "prophet/hard/10/37.png",
+            "correct": "9.Nf6"
+        },
+        {
+            "image_path": "prophet/hard/10/38.png",
+            "correct": "7...Qh4"
+        },
+        {
+            "image_path": "prophet/hard/10/39.png",
+            "correct": "10.Ne7"
+        },
+        {
+            "image_path": "prophet/hard/10/40.png",
+            "correct": "7.Ne5"
+        },
+        {
+            "image_path": "prophet/hard/10/41.png",
+            "correct": "10.cd"
+        },
+        {
+            "image_path": "prophet/hard/10/42.png",
+            "correct": "10.Ne5"
+        },
+        {
+            "image_path": "prophet/hard/10/43.png",
+            "correct": "10.Ne5"
+        },
+        {
+            "image_path": "prophet/hard/10/44.png",
+            "correct": "7.Ne5?"
+        },
+        {
+            "image_path": "prophet/hard/10/45.png",
+            "correct": "8.Nf7?"
+        },
+          {
+            "image_path": "prophet/hard/10/46.png",
+            "correct": "8...c3"
+        },
+          {
+            "image_path": "prophet/hard/10/47.png",
+            "correct": "10.a3"
+        },
+          {
+            "image_path": "prophet/hard/10/48.png",
+            "correct": "8...Re5"
+        },
+          {
+            "image_path": "prophet/hard/10/49.png",
+            "correct": "10.Bf6"
+        },
+          {
+            "image_path": "prophet/hard/10/50.png",
+            "correct": "9.Nb5"
+        },
+          {
+            "image_path": "prophet/hard/10/51.png",
+            "correct": "4...Bf2"
+        }
+        ]
+  },
+  {
+    "id": "hard_prophet12_1",
+    "title": "Машина времени",
+    "category": "тактика",
+    "difficulty": "выше среднего",
+    "text": "Прокрути партию в уме. Найди на каком ходу была совершена ошибка и исправь её в формате 4.Qa4 за белых, и 4...Nd5 за черных",
+    "number_of_ex": "12",
+    "number": "51",
+    "zero_position": "prophet/hard/zero_position.png",
+    "questions": [
+      {
+        "image_path": "prophet/hard/12/1.png",
+        "correct": "10.Qa4"
+      },
+      {
+        "image_path": "prophet/hard/12/2.png",
+        "correct": "10.Nd5"
+      },
+      {
+        "image_path": "prophet/hard/12/3.png",
+        "correct": "11.Qg6"
+      },
+      {
+        "image_path": "prophet/hard/12/4.png",
+        "correct": "12.Qb5"
+      },
+      {
+        "image_path": "prophet/hard/12/5.png",
+        "correct": "11.Nf7"
+      },
+      {
+        "image_path": "prophet/hard/12/6.png",
+        "correct": "9.d5"
+      },
+      {
+        "image_path": "prophet/hard/12/7.png",
+        "correct": "10.Qf3"
+      },
+      {
+        "image_path": "prophet/hard/12/8.png",
+        "correct": "10.Nd5"
+      },
+      {
+        "image_path": "prophet/hard/12/9.png",
+        "correct": "11.Bf7"
+      },
+      {
+        "image_path": "prophet/hard/12/10.png",
+        "correct": "11...Nd4"
+      },
+      {
+        "image_path": "prophet/hard/12/11.png",
+        "correct": "11.Nd5?"
+      },
+      {
+        "image_path": "prophet/hard/12/12.png",
+        "correct": "11.Ke2"
+      }
+    ]
+  },
+    {
+    "id": "hard_prophet12_2",
+    "title": "Машина времени",
+    "category": "тактика",
+    "difficulty": "выше среднего",
+    "text": "Прокрути партию в уме. Найди на каком ходу была совершена ошибка и исправь её в формате 4.Qa4 за белых, и 4...Nd5 за черных",
+    "number_of_ex": "12",
+    "number": "52",
+    "zero_position": "prophet/hard/zero_position.png",
+    "questions": [
+      {
+        "image_path": "prophet/hard/12/13.png",
+        "correct": "11.Bh7"
+      },
+      {
+        "image_path": "prophet/hard/12/14.png",
+        "correct": "8.Nc4"
+      },
+      {
+        "image_path": "prophet/hard/12/15.png",
+        "correct": "10.Nd6"
+      },
+      {
+        "image_path": "prophet/hard/12/16.png",
+        "correct": "10.Bb5"
+      },
+      {
+        "image_path": "prophet/hard/12/17.png",
+        "correct": "10.b4"
+      },
+      {
+        "image_path": "prophet/hard/12/18.png",
+        "correct": "10.Ne5"
+      },
+      {
+        "image_path": "prophet/hard/12/19.png",
+        "correct": "9...Nf2"
+      },
+      {
+        "image_path": "prophet/hard/12/20.png",
+        "correct": "11.Bh7"
+      },
+      {
+        "image_path": "prophet/hard/12/21.png",
+        "correct": "10.ef"
+      },
+      {
+        "image_path": "prophet/hard/12/22.png",
+        "correct": "11.Bb6"
+      },
+      {
+        "image_path": "prophet/hard/12/23.png",
+        "correct": "9.Rd8"
+      },
+      {
+        "image_path": "prophet/hard/12/24.png",
+        "correct": "10.Ne5"
+      }
+    ]
+  },
+
+     {
+    "id": "hard_prophet12_3",
+    "title": "Машина времени",
+    "category": "тактика",
+    "difficulty": "выше среднего",
+    "text": "Прокрути партию в уме. Найди на каком ходу была совершена ошибка и исправь её в формате 4.Qa4 за белых, и 4...Nd5 за черных",
+    "number_of_ex": "12",
+    "number": "53",
+    "zero_position": "prophet/hard/zero_position.png",
+    "questions": [
+      {
+        "image_path": "prophet/hard/12/25.png",
+        "correct": "9...c5"
+      },
+      {
+        "image_path": "prophet/hard/12/26.png",
+        "correct": "10...Qd1"
+      },
+      {
+        "image_path": "prophet/hard/12/27.png",
+        "correct": "11.Be7"
+      },
+      {
+        "image_path": "prophet/hard/12/28.png",
+        "correct": "11.Ng7"
+      },
+      {
+        "image_path": "prophet/hard/12/29.png",
+        "correct": "11.Rb3"
+      },
+      {
+        "image_path": "prophet/hard/12/30.png",
+        "correct": "10.Nf6?"
+      },
+      {
+        "image_path": "prophet/hard/12/31.png",
+        "correct": "11.Qa4"
+      },
+      {
+        "image_path": "prophet/hard/12/32.png",
+        "correct": "11.Bh7"
+      },
+      {
+        "image_path": "prophet/hard/12/33.png",
+        "correct": "10.Rh2"
+      },
+      {
+        "image_path": "prophet/hard/12/34.png",
+        "correct": "9.Qb7?"
+      },
+      {
+        "image_path": "prophet/hard/12/35.png",
+        "correct": "11...Bh3"
+      },
+      {
+        "image_path": "prophet/hard/12/36.png",
+        "correct": "9...Ne7"
+      }
+    ]
+  },
+
+     {
+    "id": "hard_prophet12_4",
+    "title": "Машина времени",
+    "category": "тактика",
+    "difficulty": "выше среднего",
+    "text": "Прокрути партию в уме. Найди на каком ходу была совершена ошибка и исправь её в формате 4.Qa4 за белых, и 4...Nd5 за черных",
+    "number_of_ex": "9",
+    "number": "54",
+    "zero_position": "prophet/hard/zero_position.png",
+    "questions": [
+      {
+        "image_path": "prophet/hard/12/37.png",
+        "correct": "9...c5"
+      },
+      {
+        "image_path": "prophet/hard/12/38.png",
+        "correct": "10...Qd1"
+      },
+      {
+        "image_path": "prophet/hard/12/39.png",
+        "correct": "11.Be7"
+      },
+      {
+        "image_path": "prophet/hard/12/40.png",
+        "correct": "11.Ng7"
+      },
+      {
+        "image_path": "prophet/hard/12/41.png",
+        "correct": "11.Rb3"
+      },
+      {
+        "image_path": "prophet/hard/12/42.png",
+        "correct": "10.Nf6?"
+      },
+      {
+        "image_path": "prophet/hard/12/43.png",
+        "correct": "11.Qa4"
+      },
+      {
+        "image_path": "prophet/hard/12/44.png",
+        "correct": "11.Bh7"
+      },
+      {
+        "image_path": "prophet/hard/12/45.png",
+        "correct": "10.Rh2"
+      }
+    ]
+  },
+
+  {
+    "id": "hard_prophet14_1",
+    "title": "Машина времени",
+    "category": "тактика",
+    "difficulty": "выше среднего",
+    "text": "Прокрути партию в уме. Найди на каком ходу была совершена ошибка и исправь её в формате 4.Qa4 за белых, и 4...Nd5 за черных",
+    "number_of_ex": "12",
+    "number": "51",
+    "zero_position": "prophet/hard/zero_position.png",
+    "questions": [
+      {
+        "image_path": "prophet/hard/14/1.png",
+        "correct": "10.Qd5"
+      },
+      {
+        "image_path": "prophet/hard/14/2.png",
+        "correct": "13.Ng5"
+      },
+      {
+        "image_path": "prophet/hard/14/3.png",
+        "correct": "11...c4"
+      },
+      {
+        "image_path": "prophet/hard/14/4.png",
+        "correct": "12...Rb2"
+      },
+      {
+        "image_path": "prophet/hard/14/5.png",
+        "correct": "9.Qd4"
+      },
+      {
+        "image_path": "prophet/hard/14/6.png",
+        "correct": "12.Bf6"
+      },
+      {
+        "image_path": "prophet/hard/14/7.png",
+        "correct": "11...Qa2"
+      },
+      {
+        "image_path": "prophet/hard/14/8.png",
+        "correct": "12.Bh7"
+      },
+      {
+        "image_path": "prophet/hard/14/9.png",
+        "correct": "13.0-0"
+      },
+      {
+        "image_path": "prophet/hard/14/10.png",
+        "correct": "10...Qd4"
+      },
+      {
+        "image_path": "prophet/hard/14/11.png",
+        "correct": "8.Qh5"
+      },
+      {
+        "image_path": "prophet/hard/14/12.png",
+        "correct": "10.d4"
+      }
+    ]
+  },
+    {
+    "id": "hard_prophet14_2",
+    "title": "Машина времени",
+    "category": "тактика",
+    "difficulty": "выше среднего",
+    "text": "Прокрути партию в уме. Найди на каком ходу была совершена ошибка и исправь её в формате 4.Qa4 за белых, и 4...Nd5 за черных",
+    "number_of_ex": "12",
+    "number": "52",
+    "zero_position": "prophet/hard/zero_position.png",
+    "questions": [
+      {
+        "image_path": "prophet/hard/14/13.png",
+        "correct": "13.Rf6"
+      },
+      {
+        "image_path": "prophet/hard/14/14.png",
+        "correct": "12...Qd4"
+      },
+      {
+        "image_path": "prophet/hard/14/15.png",
+        "correct": "10.Qh5"
+      },
+      {
+        "image_path": "prophet/hard/14/16.png",
+        "correct": "9.Qa4"
+      },
+      {
+        "image_path": "prophet/hard/14/17.png",
+        "correct": "10.de"
+      },
+      {
+        "image_path": "prophet/hard/14/18.png",
+        "correct": "7.e5"
+      },
+      {
+        "image_path": "prophet/hard/14/19.png",
+        "correct": "12.d6"
+      },
+      {
+        "image_path": "prophet/hard/14/20.png",
+        "correct": "12...Qe8"
+      },
+      {
+        "image_path": "prophet/hard/14/21.png",
+        "correct": "13.Nf6"
+      },
+      {
+        "image_path": "prophet/hard/14/22.png",
+        "correct": "13.Qh5"
+      },
+      {
+        "image_path": "prophet/hard/14/23.png",
+        "correct": "12.Ne6"
+      },
+      {
+        "image_path": "prophet/hard/14/24.png",
+        "correct": "12.a4"
+      }
+    ]
+  },
+
+     {
+    "id": "hard_prophet14_3",
+    "title": "Машина времени",
+    "category": "тактика",
+    "difficulty": "выше среднего",
+    "text": "Прокрути партию в уме. Найди на каком ходу была совершена ошибка и исправь её в формате 4.Qa4 за белых, и 4...Nd5 за черных",
+    "number_of_ex": "12",
+    "number": "53",
+    "zero_position": "prophet/hard/zero_position.png",
+    "questions": [
+      {
+        "image_path": "prophet/hard/14/25.png",
+        "correct": "5...Bf2"
+      },
+      {
+        "image_path": "prophet/hard/14/26.png",
+        "correct": "11...Qa2"
+      },
+      {
+        "image_path": "prophet/hard/14/27.png",
+        "correct": "13...Nc3"
+      },
+      {
+        "image_path": "prophet/hard/14/28.png",
+        "correct": "14.Nf7"
+      },
+      {
+        "image_path": "prophet/hard/14/29.png",
+        "correct": "13.e5"
+      },
+      {
+        "image_path": "prophet/hard/14/30.png",
+        "correct": "13.ef"
+      },
+      {
+        "image_path": "prophet/hard/14/31.png",
+        "correct": "14.Ng5"
+      },
+      {
+        "image_path": "prophet/hard/14/32.png",
+        "correct": "13.Ne6"
+      },
+      {
+        "image_path": "prophet/hard/14/33.png",
+        "correct": "11...Ne4"
+      },
+      {
+        "image_path": "prophet/hard/14/34.png",
+        "correct": "8.g4"
+      },
+      {
+        "image_path": "prophet/hard/14/35.png",
+        "correct": "12.Bd6"
+      },
+      {
+        "image_path": "prophet/hard/14/36.png",
+        "correct": "12...Bf2"
+      }
+    ]
+  },
+
+     {
+    "id": "hard_prophet14_4",
+    "title": "Машина времени",
+    "category": "тактика",
+    "difficulty": "выше среднего",
+    "text": "Прокрути партию в уме. Найди на каком ходу была совершена ошибка и исправь её в формате 4.Qa4 за белых, и 4...Nd5 за черных",
+    "number_of_ex": "12",
+    "number": "54",
+    "zero_position": "prophet/hard/zero_position.png",
+    "questions": [
+      {
+        "image_path": "prophet/hard/14/37.png",
+        "correct": "12.Bh6"
+      },
+      {
+        "image_path": "prophet/hard/14/38.png",
+        "correct": "10.Bh6"
+      },
+      {
+        "image_path": "prophet/hard/14/39.png",
+        "correct": "13.Nd5"
+      },
+      {
+        "image_path": "prophet/hard/14/40.png",
+        "correct": "11...Qf5"
+      },
+      {
+        "image_path": "prophet/hard/14/41.png",
+        "correct": "12...Bb4"
+      },
+      {
+        "image_path": "prophet/hard/14/42.png",
+        "correct": "7.Nb5?"
+      },
+      {
+        "image_path": "prophet/hard/14/43.png",
+        "correct": "12...Qc3"
+      },
+      {
+        "image_path": "prophet/hard/14/44.png",
+        "correct": "12.Bf7?"
+      },
+      {
+        "image_path": "prophet/hard/14/45.png",
+        "correct": "13...Nc5?"
+      },
+      {
+        "image_path": "prophet/hard/14/46.png",
+        "correct": "13.b4"
+      },
+      {
+        "image_path": "prophet/hard/14/47.png",
+        "correct": "13.Be4"
+      },
+      {
+        "image_path": "prophet/hard/14/48.png",
+        "correct": "13.Nf7"
+      }
+    ]
+  },
+
+       {
+    "id": "hard_prophet14_5",
+    "title": "Машина времени",
+    "category": "тактика",
+    "difficulty": "выше среднего",
+    "text": "Прокрути партию в уме. Найди на каком ходу была совершена ошибка и исправь её в формате 4.Qa4 за белых, и 4...Nd5 за черных",
+    "number_of_ex": "16",
+    "number": "54",
+    "zero_position": "prophet/hard/zero_position.png",
+    "questions": [
+      {
+        "image_path": "prophet/hard/14/49.png",
+        "correct": "9...c5"
+      },
+      {
+        "image_path": "prophet/hard/14/50.png",
+        "correct": "10...Qd1"
+      },
+      {
+        "image_path": "prophet/hard/14/51.png",
+        "correct": "11.Be7"
+      },
+      {
+        "image_path": "prophet/hard/14/52.png",
+        "correct": "11.Ng7"
+      },
+      {
+        "image_path": "prophet/hard/14/53.png",
+        "correct": "11.Rb3"
+      },
+      {
+        "image_path": "prophet/hard/14/54.png",
+        "correct": "10.Nf6?"
+      },
+      {
+        "image_path": "prophet/hard/14/55.png",
+        "correct": "11.Qa4"
+      },
+      {
+        "image_path": "prophet/hard/14/56.png",
+        "correct": "11.Bh7"
+      },
+      {
+        "image_path": "prophet/hard/14/57.png",
+        "correct": "10.Rh2"
+      },
+      {
+        "image_path": "prophet/hard/14/58.png",
+        "correct": "9.Qb7?"
+      },
+      {
+        "image_path": "prophet/hard/14/59.png",
+        "correct": "11...Bh3"
+      },
+      {
+        "image_path": "prophet/hard/14/60.png",
+        "correct": "9...Ne7"
+      },
+       {
+        "image_path": "prophet/hard/14/61.png",
+        "correct": "10.Rh2"
+      },
+      {
+        "image_path": "prophet/hard/14/62.png",
+        "correct": "9.Qb7?"
+      },
+      {
+        "image_path": "prophet/hard/14/63.png",
+        "correct": "11...Bh3"
+      },
+      {
+        "image_path": "prophet/hard/14/64.png",
+        "correct": "9...Ne7"
+      }
+    ]
+  }
+
+
+
+]

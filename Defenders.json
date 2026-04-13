@@ -1,0 +1,192 @@
+[
+  {
+        "id": "defenders",
+        "title": "Тактическая защита",
+        "category": "Тактика",
+        "difficulty": "Средний",
+        "number": "6",
+        "questions": [
+            {
+                "question": "Вопрос 1 из 36. Ход белых. Как спасти фигуру?",
+                "image_path": "defenders/challenge/1.png",
+                "correct": "Rc1"
+            },
+            {
+                "question": "Вопрос 2 из 36. Ход черных. Найди защиту от мата.",
+                "image_path": "defenders/challenge/2.png",
+                "correct": "Rf6"
+            },
+            {
+                "question": "Вопрос 3 из 36. Ход белых. Найди защиту от мата.",
+                "image_path": "defenders/challenge/3.png",
+                "correct": "Qd5"
+            },
+            {
+                "question": "Вопрос 4 из 36. Ход черных. Найди лучшую защиту от мата.",
+                "image_path": "defenders/challenge/4.png",
+                "correct": "Rf7"
+            },
+            {
+                "question": "Вопрос 5 из 36. Ход черных. Найди лучшую защиту от мата.",
+                "image_path": "defenders/challenge/5.png",
+                "correct": "Rh7"
+            },
+            {
+                "question": "Вопрос 6 из 36. Ход белых. Найди лучшую защиту от мата.",
+                "image_path": "defenders/challenge/6.png",
+                "correct": "Bh7"
+            },
+            {
+                "question": "Вопрос 7 из 36. Ход черных. Найди лучшую защиту от мата.",
+                "image_path": "defenders/challenge/7.png",
+                "correct": "f6"
+            },
+            {
+                "question": "Вопрос 8 из 36. Ход белых. Найди лучшую защиту от мата.",
+                "image_path": "defenders/challenge/8.png",
+                "correct": "Qf4"
+            },
+            {
+                "question": "Вопрос 9 из 36. Ход белых. Найди лучшую защиту от мата.",
+                "image_path": "defenders/challenge/9.png",
+                "correct": "Rf4"
+            },
+            {
+                "question": "Вопрос 10 из 36. Ход черных. Найди лучшую защиту от мата.",
+                "image_path": "defenders/challenge/10.png",
+                "correct": "Qg4"
+            },
+            {
+                "question": "Вопрос 11 из 36. Ход черных. Найди лучшую защиту от мата.",
+                "image_path": "defenders/challenge/11.png",
+                "correct": "fg"
+            },
+            {
+                "question": "Вопрос 12 из 36. Ход черных. Найди лучшую защиту от мата.",
+                "image_path": "defenders/challenge/12.png",
+                "correct": "Rd1"
+            },
+            {
+                "question": "Вопрос 13 из 36. Ход белых. Найди лучшую защиту от мата.",
+                "image_path": "defenders/challenge/13.png",
+                "correct": "Nh3"
+            },
+            {
+                "question": "Вопрос 14 из 36. Ход белых. Найди лучшую защиту от мата.",
+                "image_path": "defenders/challenge/14.png",
+                "correct": "Bg1"
+            },
+            {
+                "question": "Вопрос 15 из 36. Ход белых. Найди лучшую защиту от мата.",
+                "image_path": "defenders/challenge/15.png",
+                "correct": "e4"
+            },
+            {
+                "question": "Вопрос 16 из 36. Ход белых. Найди лучшую защиту от мата.",
+                "image_path": "defenders/challenge/16.png",
+                "correct": "Qe1"
+            },
+            {
+                "question": "Вопрос 17 из 36. Ход белых. Найди лучшую защиту от мата.",
+                "image_path": "defenders/challenge/17.png",
+                "correct": "Qb7"
+            },
+            {
+                "question": "Вопрос 18 из 36. Ход черных. Найди лучшую защиту от мата.",
+                "image_path": "defenders/challenge/18.png",
+                "correct": "f6"
+            },
+            {
+                "question": "Вопрос 19 из 36. Ход белых. Найди лучшую защиту от мата.",
+                "image_path": "defenders/challenge/19.png",
+                "correct": "Qc4"
+            },
+            {
+                "question": "Вопрос 20 из 36. Ход белых. Найди лучшую защиту от мата.",
+                "image_path": "defenders/challenge/20.png",
+                "correct": "Qf4"
+            },
+            {
+                "question": "Вопрос 21 из 36. Ход черных. Найди лучшую защиту от мата.",
+                "image_path": "defenders/challenge/21.png",
+                "correct": "Qc7"
+            },
+            {
+                "question": "Вопрос 22 из 36. Ход черных. Найди лучшую защиту от мата.",
+                "image_path": "defenders/challenge/22.png",
+                "correct": "e5"
+            },
+            {
+                "question": "Вопрос 23 из 36. Ход черных. Найди лучшую защиту от мата.",
+                "image_path": "defenders/challenge/23.png",
+                "correct": "Re7"
+            },
+            {
+                "question": "Вопрос 24 из 36. Ход белых. Найди лучшую защиту от мата.",
+                "image_path": "defenders/challenge/24.png",
+                "correct": "g4"
+            },
+            {
+                "question": "Вопрос 25 из 36. Ход белых. Найди лучшую защиту от мата.",
+                "image_path": "defenders/challenge/25.png",
+                "correct": "Ra8"
+            },
+            {
+                "question": "Вопрос 26 из 36. Ход черных. Увернись от вилки.",
+                "image_path": "defenders/challenge/26.png",
+                "correct": "Qd6"
+            },
+            {
+                "question": "Вопрос 27 из 36. Ход белых. Как спастись от связки?",
+                "image_path": "defenders/challenge/27.png",
+                "correct": "Ne5"
+            },
+            {
+                "question": "Вопрос 28 из 36. Белые сыграли d6. Как спасти коня?",
+                "image_path": "defenders/challenge/28.png",
+                "correct": "0-0-0"
+            },
+            {
+                "question": "Вопрос 29 из 36. Как спастись от вилки?",
+                "image_path": "defenders/challenge/29.png",
+                "correct": "Qf6"
+            },
+            {
+                "question": "Вопрос 30 из 36. Белые попались в ловушку. Есть выход?",
+                "image_path": "defenders/challenge/30.png",
+                "correct": "Rb5"
+            },
+            {
+                "question": "Вопрос 31 из 36. Кажется, это конец. Как черные могут спастись?",
+                "image_path": "defenders/challenge/31.png",
+                "correct": "Qf4"
+            },
+            {
+                "question": "Вопрос 32 из 36. Как увернуться от этого копья?",
+                "image_path": "defenders/challenge/32.png",
+                "correct": "Rc4"
+            },
+            {
+                "question": "Вопрос 33 из 36. Белые на грани поражения. Как задержать пешку?",
+                "image_path": "defenders/challenge/33.png",
+                "correct": "Ka3"
+            },
+            {
+                "question": "Вопрос 34 из 36. Найди спасение от мата.",
+                "image_path": "defenders/challenge/34.png",
+                "correct": "Kh7"
+            },
+            {
+                "question": "Вопрос 35 из 36. Могут ли черные спастись от мата? Если есть спасение, напиши ход.",
+                "image_path": "defenders/challenge/35.png",
+                "correct": "Qb3"
+            },
+            {
+                "question": "Вопрос 36 из 36. Могут ли белые спастись от мата? Если есть спасение, напиши ход.",
+                "image_path": "defenders/challenge/36.png",
+                "correct": "Kb1"
+            }
+
+        ]
+    }
+  ]
