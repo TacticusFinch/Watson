@@ -50,7 +50,7 @@ user_level_3_ids = [2119353166, 1139034211, 7877529350, 7877529350, 7777781328, 
 my_ids = [2119353166]
 user_level_1_ids = [2119353166]#, 2119353166, 6627798006, 7294169822, 6356510135, 5879786452, 7968414403, 7394276254, 7740277351, 6483117741, 6283614567, 984742231, 1451398913, 5569265124, 6934691008, 5977196372, 5534205178, 7450839606, 771827523, 6528529601, 7331880668, 6593272248, 7876684402]
 all_users_ids = [2119353166, 1186939115, 5276190685, 6804661582, 6668604221, 6126719516, 5828167970, 6283356137, 6662455423, 2097858255, 7698243378, 6672279908, 6601893986, 6209517485, 6032405861, 6113872493, 5776038271, 6710467312, 750941958, 2119353166, 6627798006, 7294169822, 6356510135, 5879786452, 7968414403, 7394276254, 7740277351, 6483117741, 6283614567, 984742231, 1451398913, 5569265124, 6934691008, 5977196372, 5534205178, 7450839606, 771827523, 6528529601, 7331880668, 6593272248, 7876684402]
-DB_PATH = "databases/chat_log.db"
+DB_PATH = "data/chat_log.db"
 misquestions = {}
 knowledge_base = {
     "Кто такой архитектор?": "Это создатель нашей матрицы!"
@@ -77,7 +77,7 @@ def insert_user_results(conn, user_name, test_name, score, misquestions):
         print(f"Ошибка при вставке данных: {e}")
 
 
-conn = create_connection("databases/chat_log.db")
+conn = create_connection("data/chat_log.db")
 def retrieve_info(query):
     return knowledge_base.get(query.lower(), "Я не знаю этого, но могу попробовать объяснить.")
 
@@ -492,7 +492,7 @@ pearls = [
 
 async def init_db():
     """ Инициализация базы данных """
-    async with aiosqlite.connect("databases/users_homework.db") as db:
+    async with aiosqlite.connect("data/users_homework.db") as db:
         await db.execute("""
         CREATE TABLE IF NOT EXISTS user_progress (
             user_id INTEGER PRIMARY KEY,
@@ -507,7 +507,7 @@ async def init_db():
 
 async def get_user_progress(user_id):
     """ Получает текущий тест и номер вопроса пользователя """
-    async with aiosqlite.connect("databases/users_homework.db") as db:
+    async with aiosqlite.connect("data/users_homework.db") as db:
         cursor = await db.execute("SELECT hometest_index, question_index FROM user_progress WHERE user_id = ?", (user_id,))
         row = await cursor.fetchone()
         await cursor.close()
@@ -516,7 +516,7 @@ async def get_user_progress(user_id):
 
 async def update_user_progress(user_id, hometest_index, question_index, username=None, date=None):
     """Обновляет прогресс пользователя, и при необходимости — имя и дату"""
-    async with aiosqlite.connect("databases/users_homework.db") as db:
+    async with aiosqlite.connect("data/users_homework.db") as db:
         # Получаем текущее значение, если не передано новое
         if username is None or date is None:
             cursor = await db.execute("SELECT username, date FROM user_progress WHERE user_id = ?", (user_id,))
@@ -1108,7 +1108,7 @@ def save_answer_to_db(user_id, user_name, question, answer):
     """Сохраняем ответ в базу данных"""
     date_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-    conn = sqlite3.connect('databases/chat_log.db')
+    conn = sqlite3.connect('data/chat_log.db')
     cursor = conn.cursor()
 
     cursor.execute('''CREATE TABLE IF NOT EXISTS bio (
@@ -1145,7 +1145,7 @@ async def process_user_input(message: types.Message, state: FSMContext):
         question = message.text
         date_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-        conn = sqlite3.connect('databases/chat_log.db')
+        conn = sqlite3.connect('data/chat_log.db')
         cursor = conn.cursor()
         cursor.execute('''
                 INSERT INTO chat_messages (user_id, message, date_time, student_name) 
