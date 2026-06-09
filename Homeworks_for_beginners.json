@@ -1,0 +1,2151 @@
+[
+    {
+        "id": "checks",
+        "title": "Счетчик шахов",
+        "category": "Тактика",
+        "difficulty": "Легкий",
+        "number": "1",
+        "questions": [
+            {
+                "question": "Вопрос 1. Ход белых. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/1.png",
+                "options": ["2", "3", "4", "5"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 2. Ход белых. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/2.png",
+                "options": ["2", "3", "4", "5"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 3. Ход черных. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/3.png",
+                "options": ["2", "3", "4", "Тут нет шахов"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 4. Ход белых. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/4.png",
+                "options": ["1", "2", "3", "4"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 5. Ход белых. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/5.png",
+                "options": ["0", "1", "2", "3"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 6. Ход черных. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/6.png",
+                "options": ["0", "1", "2", "3"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 7. Ход черных. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/7.png",
+                "options": ["1", "2", "3", "4"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 8. Ход белых. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/8.png",
+                "options": ["2", "3", "4", "5"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 9. Ход белых. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/9.png",
+                "options": ["2", "3", "4", "Нет шахов"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 10. Ход белых. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/10.png",
+                "options": ["2", "3", "4", "5"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 11. Ход черных. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/11.png",
+                "options": ["2", "3", "4", "Это невозможно"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 12. Ход черных. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/12.png",
+                "options": ["2", "3", "4", "5"],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "checks",
+        "title": "Счетчик шахов",
+        "category": "Тактика",
+        "difficulty": "Легкий",
+        "number": "2",
+        "questions": [
+            {
+                "question": "Вопрос 1. Ход белых. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/13.png",
+                "options": ["2", "3", "4", "5"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 2. Ход белых. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/14.png",
+                "options": ["2", "3", "4", "5"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 3. Ход черных. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/15.png",
+                "options": ["2", "3", "4", "Тут нет шахов"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 4. Ход белых. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/16.png",
+                "options": ["1", "2", "3", "4"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 5. Ход белых. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/17.png",
+                "options": ["0", "1", "2", "3"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 6. Ход черных. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/18.png",
+                "options": ["0", "1", "2", "3"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 7. Ход черных. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/19.png",
+                "options": ["1", "2", "3", "4"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 8. Ход белых. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/20.png",
+                "options": ["2", "3", "4", "5"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 9. Ход белых. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/21.png",
+                "options": ["2", "3", "4", "Нет шахов"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 10. Ход белых. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/22.png",
+                "options": ["0", "1", "2", "3"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 11. Ход черных. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/23.png",
+                "options": ["2", "3", "4", "Это невозможно"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 12. Ход черных. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/24.png",
+                "options": ["3", "4", "5", "6"],
+                "correct": 3
+            }
+        ]
+    },
+
+    {
+        "id": "checks",
+        "title": "Счетчик шахов",
+        "category": "Тактика",
+        "difficulty": "Легкий",
+        "number": "3",
+        "questions": [
+            {
+                "question": "Вопрос 1. Ход белых. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/25.png",
+                "options": ["2", "3", "4", "5"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 2. Ход белых. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/26.png",
+                "options": ["0", "1", "2", "3"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 3. Ход черных. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/27.png",
+                "options": ["2", "3", "4", "Тут нет шахов"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 4. Ход белых. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/28.png",
+                "options": ["1", "2", "3", "4"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 5. Ход белых. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/29.png",
+                "options": ["1", "2", "3", "4"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 6. Ход черных. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/30.png",
+                "options": ["0", "1", "2", "3"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 7. Ход черных. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/31.png",
+                "options": ["3", "4", "5", "6"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 8. Ход белых. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/32.png",
+                "options": ["0", "1", "2", "3"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 9. Ход белых. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/33.png",
+                "options": ["2", "3", "4", "Нет шахов"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 10. Ход белых. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/34.png",
+                "options": ["0", "1", "2", "3"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 11. Ход черных. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/35.png",
+                "options": ["1", "2", "3", "4"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 12. Ход черных. Сколько всевозможных шахов есть в этой позиции?",
+                "image_path": "homeworks/checks/36.png",
+                "options": ["0", "1", "2", "3"],
+                "correct": 1
+            }
+        ]
+    },
+
+    {
+        "id": "captures",
+        "title": "Счетчик съедений",
+        "category": "Тактика",
+        "difficulty": "Легкий",
+        "number": "4",
+        "questions": [
+            {
+                "question": "Вопрос 1. Ход черных. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/1.png",
+                "options": ["3", "4", "5", "6"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 2. Ход белых. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/2.png",
+                "options": ["0", "2", "3", "4"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 3. Ход черных. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/3.png",
+                "options": ["1", "2", "3", "4"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 4. Ход белых. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/4.png",
+                "options": ["3", "4", "5", "6"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 5. Ход белых. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/5.png",
+                "options": ["1", "2", "3", "4"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 6. Ход черных. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/6.png",
+                "options": ["1", "2", "3", "4"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 7. Ход черных. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/7.png",
+                "options": ["0", "1", "2", "3"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 8. Ход белых. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/8.png",
+                "options": ["0", "1", "2", "3"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 9. Ход черных. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/9.png",
+                "options": ["0", "1", "2", "3"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 10. Ход белых. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/10.png",
+                "options": ["2", "3", "4", "5"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 11. Ход черных. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/11.png",
+                "options": ["1", "2", "3", "4"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 12. Ход белых. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/12.png",
+                "options": ["3", "4", "5", "6"],
+                "correct": 2
+            }
+        ]
+    },
+    {
+        "id": "captures",
+        "title": "Счетчик съедений",
+        "category": "Тактика",
+        "difficulty": "Легкий",
+        "number": "5",
+        "questions": [
+            {
+                "question": "Вопрос 1. Ход черных. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/13.png",
+                "options": ["1", "2", "3", "4"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 2. Ход белых. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/14.png",
+                "options": ["0", "2", "3", "4"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 3. Ход черных. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/15.png",
+                "options": ["3", "4", "5", "6"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 4. Ход белых. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/16.png",
+                "options": ["3", "4", "5", "6"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 5. Ход белых. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/17.png",
+                "options": ["1", "2", "3", "4"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 6. Ход черных. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/18.png",
+                "options": ["1", "2", "3", "4"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 7. Ход черных. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/19.png",
+                "options": ["1", "2", "3", "4"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 8. Ход белых. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/20.png",
+                "options": ["1", "2", "3", "4"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 9. Ход черных. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/21.png",
+                "options": ["0", "1", "2", "3"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 10. Ход белых. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/22.png",
+                "options": ["2", "3", "4", "5"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 11. Ход черных. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/23.png",
+                "options": ["1", "2", "3", "4"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 12. Ход белых. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/24.png",
+                "options": ["2", "3", "4", "5"],
+                "correct": 1
+            }
+        ]
+    },
+    {
+        "id": "captures",
+        "title": "Счетчик съедений",
+        "category": "Тактика",
+        "difficulty": "Легкий",
+        "number": "6",
+        "questions": [
+            {
+                "question": "Вопрос 1. Ход черных. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/25.png",
+                "options": ["1", "2", "3", "4"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 2. Ход белых. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/26.png",
+                "options": ["0", "2", "3", "4"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 3. Ход черных. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/27.png",
+                "options": ["1", "2", "3", "4"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 4. Ход белых. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/28.png",
+                "options": ["0", "1", "2", "3"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 5. Ход белых. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/29.png",
+                "options": ["1", "2", "3", "4"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 6. Ход черных. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/30.png",
+                "options": ["1", "2", "3", "4"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 7. Ход черных. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/31.png",
+                "options": ["1", "2", "3", "4"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 8. Ход белых. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/32.png",
+                "options": ["0", "1", "2", "3"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 9. Ход черных. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/33.png",
+                "options": ["2", "3", "4", "5"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 10. Ход белых. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/34.png",
+                "options": ["2", "3", "4", "5"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 11. Ход черных. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/35.png",
+                "options": ["1", "2", "3", "4"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 12. Ход белых. Сколько всевозможных съедений есть у белых в этой позиции?",
+                "image_path": "homeworks/captures/36.png",
+                "options": ["3", "4", "5", "6"],
+                "correct": 1
+            }
+        ]
+    },
+
+    {
+        "id": "gifts",
+        "title": "Подарочки",
+        "category": "Тактика",
+        "difficulty": "Легкий",
+        "number": "7",
+        "questions": [
+            {
+                "question": "Вопрос 1. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/1.png",
+                "options": ["Коня", "Слона"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 2. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/2.png",
+                "options": ["Ладью", "Ферзя"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 3. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/3.png",
+                "options": ["Коня", "Слона на а4", "Слона на с3", "Пешку"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 4. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/4.png",
+                "options": ["Коня", "Слона", "Пешку h7", "Пешку b5"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 5. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/5.png",
+                "options": ["Ладью", "Слона", "Пешку f2", "Пешку d2"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 6. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/6.png",
+                "options": ["Ладью h1", "Ладью b8"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 7. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/7.png",
+                "options": ["Коня", "Слона"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 8. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/8.png",
+                "options": ["Пешку h2", "Пешку a3", "Ферзя", "Ладью"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 9. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/9.png",
+                "options": ["Коня", "Пешку h2", "Ферзя"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 10. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/10.png",
+                "options": ["Коня", "Слона", "Пешку", "Ладью"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 11. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/11.png",
+                "options": ["Коня", "Слона", "Пешку", "Ладью"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 12. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/12.png",
+                "options": ["Ладью с1", "Ладью а1"],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "gifts",
+        "title": "Подарочки",
+        "category": "Тактика",
+        "difficulty": "Легкий",
+        "number": "8",
+        "questions": [
+            {
+                "question": "Вопрос 1. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/13.png",
+                "options": ["Коня е5", "Слона", "Коня d5"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 3. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/14.png",
+                "options": ["Коня", "Пешку", "Ферзя", "Ладью"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 3. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/15.png",
+                "options": ["Коня", "Пешку", "Ферзя", "Ладью"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 4. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/16.png",
+                "options": ["Слона f6", "Слона f3", "Пешку d6", "Пешку с6"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 5. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/17.png",
+                "options": ["Коня", "Слона", "Пешку"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 6. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/18.png",
+                "options": ["Слона", "Ферзя"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 7. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/19.png",
+                "options": ["Коня", "Слона"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 8. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/20.png",
+                "options": ["Пешку", "Слона", "Ферзя"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 9. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/21.png",
+                "options": ["Слона g5", "Слона f7"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 10. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/22.png",
+                "options": ["Слона", "Ладью"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 11. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/23.png",
+                "options": ["Коня","Ладью"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 12. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/24.png",
+                "options": ["Коня a4", "Коня e5"],
+                "correct": 1
+            }
+        ]
+    },
+
+    {
+        "id": "gifts",
+        "title": "Подарочки",
+        "category": "Тактика",
+        "difficulty": "Легкий",
+        "number": "9",
+        "questions": [
+            {
+                "question": "Вопрос 1. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/25.png",
+                "options": ["Слона", "Пешку", "Ладью"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 2. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/26.png",
+                "options": ["Коня", "Слона на а4", "Слона на с3", "Пешку"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 3. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/27.png",
+                "options": ["Коня", "Слона", "Ферзя", "Ладью"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 4. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/28.png",
+                "options": ["Коня", "Слона", "Ферзя", "Ладью"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 5. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/29.png",
+                "options": ["Коня", "Слона", "Ферзя", "Ладью"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 6. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/30.png",
+                "options": ["Коня", "Слона", "Ферзя", "Ладью"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 7. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/31.png",
+                "options": ["Коня", "Слона", "Ферзя", "Ладью"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 8. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/32.png",
+                "options": ["Коня", "Слона", "Ферзя", "Ладью"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 9. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/33.png",
+                "options": ["Коня", "Слона", "Ферзя", "Ладью"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 10. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/34.png",
+                "options": ["Коня", "Слона", "Ферзя", "Ладью"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 11. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/35.png",
+                "options": ["Коня", "Слона", "Ферзя", "Ладью"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 12. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/36.png",
+                "options": ["Коня", "Слона", "Ферзя", "Ладью"],
+                "correct": 1
+            }
+        ]
+    },
+
+    {
+        "id": "trap?",
+        "title": "Ловушка или зевок?",
+        "category": "Тактика",
+        "difficulty": "Легкий",
+        "number": "10",
+        "questions": [
+            {
+                "question": "Вопрос 1. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/1.png",
+                "options": ["Коня", "Слона", "Ферзя", "Ладью"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 2. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/1.png",
+                "options": ["Коня", "Слона", "Ферзя", "Ладью"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 3. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/1.png",
+                "options": ["Коня", "Слона", "Ферзя", "Ладью"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 4. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/1.png",
+                "options": ["Коня", "Слона", "Ферзя", "Ладью"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 5. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/1.png",
+                "options": ["Коня", "Слона", "Ферзя", "Ладью"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 6. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/1.png",
+                "options": ["Коня", "Слона", "Ферзя", "Ладью"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 7. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/1.png",
+                "options": ["Коня", "Слона", "Ферзя", "Ладью"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 8. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/1.png",
+                "options": ["Коня", "Слона", "Ферзя", "Ладью"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 9. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/1.png",
+                "options": ["Коня", "Слона", "Ферзя", "Ладью"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 10. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/1.png",
+                "options": ["Коня", "Слона", "Ферзя", "Ладью"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 11. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/1.png",
+                "options": ["Коня", "Слона", "Ферзя", "Ладью"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 12. Что бы вы съели в этой позиции?",
+                "image_path": "homeworks/gifts/1.png",
+                "options": ["Коня", "Слона", "Ферзя", "Ладью"],
+                "correct": 1
+            }
+        ]
+    },
+
+    {
+        "id": "endgame_diagnostics",
+        "title": "Тест на знание эндшпиля",
+        "category": "Стратегия",
+        "difficulty": "Легко",
+        "number": "6",
+        "questions": [
+            {
+                "question": "Вопрос 1 из 48. Победа или ничья?",
+                "image_path": "endgame/1.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 2. Победа или ничья?",
+                "image_path": "endgame/2.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 3. Победа или ничья?",
+                "image_path": "endgame/3.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 4. Победа или ничья?",
+                "image_path": "endgame/4.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 5. Победа или ничья?",
+                "image_path": "endgame/5.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 6. Победа или ничья?",
+                "image_path": "endgame/6.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 7. Победа или ничья?",
+                "image_path": "endgame/7.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 8. Победа или ничья?",
+                "image_path": "endgame/8.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 9. Победа или ничья?",
+                "image_path": "endgame/9.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 10. Победа или ничья?",
+                "image_path": "endgame/10.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 11. Победа или ничья?",
+                "image_path": "endgame/11.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 12. Победа или ничья?",
+                "image_path": "endgame/12.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 13. Победа или ничья?",
+                "image_path": "endgame/13.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 14. Победа или ничья?",
+                "image_path": "endgame/14.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 15. Победа или ничья?",
+                "image_path": "endgame/15.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 16. Победа или ничья?",
+                "image_path": "endgame/16.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 17. Победа или ничья?",
+                "image_path": "endgame/17.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 18. Победа или ничья?",
+                "image_path": "endgame/18.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 19. Победа или ничья?",
+                "image_path": "endgame/19.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 20. Победа или ничья?",
+                "image_path": "endgame/20.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 21. Победа или ничья?",
+                "image_path": "endgame/21.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 22. Победа или ничья?",
+                "image_path": "endgame/22.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 23. Победа или ничья?",
+                "image_path": "endgame/23.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 24. Победа или ничья?",
+                "image_path": "endgame/24.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 25. Победа или ничья?",
+                "image_path": "endgame/25.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 26. Победа или ничья?",
+                "image_path": "endgame/26.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 27. Победа или ничья?",
+                "image_path": "endgame/27.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 28. Победа или ничья?",
+                "image_path": "endgame/28.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 29. Победа или ничья?",
+                "image_path": "endgame/29.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 30. Победа или ничья?",
+                "image_path": "endgame/30.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 31. Победа или ничья?",
+                "image_path": "endgame/31.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 32. Победа или ничья?",
+                "image_path": "endgame/32.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 33. Победа или ничья?",
+                "image_path": "endgame/33.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 34. Победа или ничья?",
+                "image_path": "endgame/34.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 35. Победа или ничья?",
+                "image_path": "endgame/35.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 36. Победа или ничья?",
+                "image_path": "endgame/36.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 37. Победа или ничья?",
+                "image_path": "endgame/37.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 38. Победа или ничья?",
+                "image_path": "endgame/38.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 39. Победа или ничья?",
+                "image_path": "endgame/39.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 40. Победа или ничья?",
+                "image_path": "endgame/40.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 41. Победа или ничья?",
+                "image_path": "endgame/41.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 42. Победа или ничья?",
+                "image_path": "endgame/42.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 43. Победа или ничья?",
+                "image_path": "endgame/43.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 44. Победа или ничья?",
+                "image_path": "endgame/44.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 45. Победа или ничья?",
+                "image_path": "endgame/45.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 46. Победа или ничья?",
+                "image_path": "endgame/46.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 47. Победа или ничья?",
+                "image_path": "endgame/47.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 48. Победа или ничья?",
+                "image_path": "endgame/48.png",
+                "options": ["Победа", "Ничья"],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "winordraw1",
+        "title": "Победа или ничья?",
+        "category": "Тактика",
+        "difficulty": "Средний",
+        "number": "6",
+        "questions": [
+            {
+                "question": "Вопрос 1 из 12. Выиграно или нет?",
+                "image_path": "winordraw/1.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 2 из 12. Выиграно или нет?",
+                "image_path": "winordraw/2.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 3 из 12. Выиграно или нет?",
+                "image_path": "winordraw/3.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 4 из 12. Выиграно или нет?",
+                "image_path": "winordraw/4.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 5 из 12. Выиграно или нет?",
+                "image_path": "winordraw/5.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 6 из 12. Выиграно или нет?",
+                "image_path": "winordraw/6.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 7 из 12. Выиграно или нет?",
+                "image_path": "winordraw/7.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 8 из 12. Выиграно или нет?",
+                "image_path": "winordraw/8.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 9 из 12. Выиграно или нет?",
+                "image_path": "winordraw/9.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 10 из 12. Выиграно или нет?",
+                "image_path": "winordraw/10.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 11 из 12. Выиграно или нет?",
+                "image_path": "winordraw/11.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 12 из 12. Выиграно или нет?",
+                "image_path": "winordraw/12.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "winordraw1",
+        "title": "Победа или ничья?",
+        "category": "Тактика",
+        "difficulty": "Средний",
+        "number": "6",
+        "questions": [
+            {
+                "question": "Вопрос 1 из 12. Выиграно или нет?",
+                "image_path": "winordraw/1.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 2 из 12. Выиграно или нет?",
+                "image_path": "winordraw/2.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 3 из 12. Выиграно или нет?",
+                "image_path": "winordraw/3.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 4 из 12. Выиграно или нет?",
+                "image_path": "winordraw/4.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 5 из 12. Выиграно или нет?",
+                "image_path": "winordraw/5.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 6 из 12. Выиграно или нет?",
+                "image_path": "winordraw/6.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 7 из 12. Выиграно или нет?",
+                "image_path": "winordraw/7.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 8 из 12. Выиграно или нет?",
+                "image_path": "winordraw/8.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 9 из 12. Выиграно или нет?",
+                "image_path": "winordraw/9.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 10 из 12. Выиграно или нет?",
+                "image_path": "winordraw/10.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 11 из 12. Выиграно или нет?",
+                "image_path": "winordraw/11.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 12 из 12. Выиграно или нет?",
+                "image_path": "winordraw/12.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+
+    {
+        "id": "winordraw2",
+        "title": "Победа или ничья?",
+        "category": "Тактика",
+        "difficulty": "Средний",
+        "number": "6",
+        "questions": [
+            {
+                "question": "Вопрос 1 из 12. Выиграно или нет?",
+                "image_path": "winordraw/13.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 2 из 12. Выиграно или нет?",
+                "image_path": "winordraw/14.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 3 из 12. Выиграно или нет?",
+                "image_path": "winordraw/15.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 4 из 12. Выиграно или нет?",
+                "image_path": "winordraw/16.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 5 из 12. Выиграно или нет?",
+                "image_path": "winordraw/17.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 6 из 12. Выиграно или нет?",
+                "image_path": "winordraw/18.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 7 из 12. Выиграно или нет?",
+                "image_path": "winordraw/19.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 8 из 12. Выиграно или нет?",
+                "image_path": "winordraw/20.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 9 из 12. Выиграно или нет?",
+                "image_path": "winordraw/21.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 10 из 12. Выиграно или нет?",
+                "image_path": "winordraw/22.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 11 из 12. Выиграно или нет?",
+                "image_path": "winordraw/23.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 12 из 12. Выиграно или нет?",
+                "image_path": "winordraw/24.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+{
+        "id": "winordraw3",
+        "title": "Победа или ничья?",
+        "category": "Тактика",
+        "difficulty": "Средний",
+        "number": "6",
+        "questions": [
+            {
+                "question": "Вопрос 1 из 12. Выиграно или нет?",
+                "image_path": "winordraw/25.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 2 из 12. Выиграно или нет?",
+                "image_path": "winordraw/26.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 3 из 12. Выиграно или нет?",
+                "image_path": "winordraw/27.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 4 из 12. Выиграно или нет?",
+                "image_path": "winordraw/28.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 5 из 12. Выиграно или нет?",
+                "image_path": "winordraw/29.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 6 из 12. Выиграно или нет?",
+                "image_path": "winordraw/30.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 7 из 12. Выиграно или нет?",
+                "image_path": "winordraw/31.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 8 из 12. Выиграно или нет?",
+                "image_path": "winordraw/32.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 9 из 12. Выиграно или нет?",
+                "image_path": "winordraw/33.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 10 из 12. Выиграно или нет?",
+                "image_path": "winordraw/34.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 11 из 12. Выиграно или нет?",
+                "image_path": "winordraw/35.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 12 из 12. Выиграно или нет?",
+                "image_path": "winordraw/36.png",
+                "options": [
+                    "Победа",
+                    "Ничья"
+                ],
+                "correct": 0
+            }
+        ]
+    },
+    {
+        "id": "defenders",
+        "title": "Тактическая защита",
+        "category": "Тактика",
+        "difficulty": "Средний",
+        "number": "6",
+        "questions": [
+            {
+                "question": "Вопрос 1 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/1.png",
+                "correct": "Rc1"
+            },
+            {
+                "question": "Вопрос 2 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/2.png",
+                "correct": "Rf6"
+            },
+            {
+                "question": "Вопрос 3 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/3.png",
+                "correct": "Qd5"
+            },
+            {
+                "question": "Вопрос 4 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/4.png",
+                "correct": "Rf7"
+            },
+            {
+                "question": "Вопрос 5 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/5.png",
+                "correct": "Rh7"
+            },
+            {
+                "question": "Вопрос 6 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/6.png",
+                "correct": "Bh7"
+            },
+            {
+                "question": "Вопрос 7 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/7.png",
+                "correct": "f6"
+            },
+            {
+                "question": "Вопрос 8 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/8.png",
+                "correct": "Qf4"
+            },
+            {
+                "question": "Вопрос 9 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/9png",
+                "correct": "Rf4"
+            },
+            {
+                "question": "Вопрос 10 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/10.png",
+                "correct": "Qg4"
+            },
+            {
+                "question": "Вопрос 11 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/11.png",
+                "correct": "fg"
+            },
+            {
+                "question": "Вопрос 12 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/12.png",
+                "correct": "Rd1"
+            },
+            {
+                "question": "Вопрос 13 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/13.png",
+                "correct": "Nh3"
+            },
+            {
+                "question": "Вопрос 14 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/14.png",
+                "correct": "Bg1"
+            },
+            {
+                "question": "Вопрос 15 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/15.png",
+                "correct": "e4"
+            },
+            {
+                "question": "Вопрос 16 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/16.png",
+                "correct": "Qe1"
+            },
+            {
+                "question": "Вопрос 17 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/17.png",
+                "correct": "Qb7"
+            },
+            {
+                "question": "Вопрос 18 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/18.png",
+                "correct": "f6"
+            },
+            {
+                "question": "Вопрос 19 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/19.png",
+                "correct": "Qc4"
+            },
+            {
+                "question": "Вопрос 20 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/20.png",
+                "correct": "Qf4"
+            },
+            {
+                "question": "Вопрос 21 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/21.png",
+                "correct": "Qc7"
+            },
+            {
+                "question": "Вопрос 22 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/22.png",
+                "correct": "e5"
+            },
+            {
+                "question": "Вопрос 23 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/23.png",
+                "correct": "Re7"
+            },
+            {
+                "question": "Вопрос 24 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/24.png",
+                "correct": "g4"
+            },
+            {
+                "question": "Вопрос 25 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/25.png",
+                "correct": "Ra8"
+            },
+            {
+                "question": "Вопрос 26 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/26.png",
+                "correct": "Qd6"
+            },
+            {
+                "question": "Вопрос 27 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/27.png",
+                "correct": "Ne5"
+            },
+            {
+                "question": "Вопрос 28 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/28.png",
+                "correct": "0-0-0"
+            },
+            {
+                "question": "Вопрос 29 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/29.png",
+                "correct": "Qf6"
+            },
+            {
+                "question": "Вопрос 30 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/30.png",
+                "correct": "Rb5"
+            },
+            {
+                "question": "Вопрос 31 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/31.png",
+                "correct": "Qf4"
+            },
+            {
+                "question": "Вопрос 32 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/32.png",
+                "correct": "Rc4"
+            },
+            {
+                "question": "Вопрос 33 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/33.png",
+                "correct": "Ka3"
+            },
+            {
+                "question": "Вопрос 34 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/34.png",
+                "correct": "Kh7"
+            },
+            {
+                "question": "Вопрос 35 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/35.png",
+                "correct": "Qb3"
+            },
+            {
+                "question": "Вопрос 36 из 36. Найди спасение.",
+                "image_path": "defenders/challenge/36.png",
+                "correct": "Kb1"
+            }
+
+        ]
+    },
+    {
+        "id": "might",
+        "title": "Тест на определение силы игры",
+        "category": "уникальный",
+        "difficulty": "хаотичная",
+        "number": "1",
+        "questions": [
+        {
+            "question": "Вопрос 1. Выгодно ли белым съесть слона?",
+            "image_path": "tests/1.png",
+            "options": ["Да", "Нет"],
+            "correct": 1
+        },
+        {
+            "question": "Вопрос 2. Могут ли белые съесть коня на f6?",
+            "image_path": "tests/2.png",
+            "options": ["Да", "Нет"],
+            "correct": 1
+        },
+        {
+            "question": "Вопрос 3. Могут ли белые съесть слона на h3?",
+            "image_path": "tests/3.png",
+            "options": ["Да", "Нет"],
+            "correct": 1
+        },
+        {
+            "question": "Вопрос 4. Могут ли черные съесть пешку d4",
+            "image_path": "tests/4.png",
+            "options": ["Да", "Нет"],
+            "correct": 0
+        },
+        {
+            "question": "Вопрос 5. Сколько в этой позиции всевозможных шахов?",
+            "image_path": "tests/5.png",
+            "options": ["2", "3", "4", "5"],
+            "correct": 2
+        },
+        {
+            "question": "Вопрос 6. Сколько в этой позиции всевозможных съедений?",
+            "image_path": "tests/6.png",
+            "options": ["3", "4", "5", "6"],
+            "correct": 2
+        },
+        {
+            "question": "Вопрос 7. Могут ли белые поставить мат?",
+            "image_path": "tests/7.png",
+            "options": ["Да", "Нет"],
+            "correct": 0
+        },
+        {
+            "question": "Вопрос 8. За сколько ходов подряд белый слон сможет сделать шах королю, оставаясь незамеченным?",
+            "image_path": "tests/8.png",
+            "options": ["Это невозможно", "2", "3", "4"],
+            "correct": 3
+        },
+        {
+            "question": "Вопрос 9. Чья позиция лучше?",
+            "image_path": "tests/9.png",
+            "options": ["Белых", "Черных", "Позиция равна"],
+            "correct": 0
+        },
+        {
+            "question": "Вопрос 10. За какое минимальное количество ходов черные смогут поставить мат?",
+            "image_path": "tests/10.png",
+            "options": ["1", "2", "3", "4"],
+            "correct": 1
+        },
+        {
+            "question": "Вопрос 11. Выгодно ли белым брать слона d8?",
+            "image_path": "tests/11.png",
+            "options": ["Да", "Нет"],
+            "correct": 0
+        },
+        {
+            "question": "Вопрос 12. Чем закончится игра при идеальной игре с обеих сторон?",
+            "image_path": "tests/12.png",
+            "options": ["Ничья", "Белые победят"],
+            "correct": 0
+        },
+        {
+            "question": "Вопрос 13. Какая защита от мата самая лучшая?",
+            "image_path": "tests/13.png",
+            "options": ["g6", "Ne6", "Ne8", "Nh5"],
+            "correct": 3
+        },
+        {
+            "question": "Вопрос 14. Ход белых. Успеет ли черный король задержать пешку?",
+            "image_path": "tests/14.png",
+            "options": ["Да", "Нет"],
+            "correct": 0
+        },
+        {
+            "question": "Вопрос 15. Оцените ход Rd6",
+            "image_path": "tests/15.png",
+            "options": ["Сильный, это сочетание отвлечения и уничтожения защиты", "Это ошибка"],
+            "correct": 1
+        },
+        {
+            "question": "Вопрос 16. Во сколько ходов черные ставят мат?",
+            "image_path": "tests/16.png",
+            "options": ["Здесь нет мата", "3", "4", "5"],
+            "correct": 2
+        },
+        {
+            "question": "Вопрос 17. Ход черных. Как бы вы сыграли?",
+            "image_path": "tests/17.png",
+            "options": ["g6", "Qb6", "f6"],
+            "correct": 1
+        },
+        {
+            "question": "Вопрос 18. Ход черных. Как бы вы сыграли?",
+            "image_path": "tests/18.png",
+            "options": ["Rb6", "Re2", "Ke8", "Rb5"],
+            "correct": 0
+        },
+        {
+            "question": "Вопрос 19. Черные планируют сыграть Bb5. Оцените это решение.",
+            "image_path": "tests/19.png",
+            "options": ["Ход хороший, препятствует маневру Bc4->Bd5 и вскроет линию для ладьи", "Это плохой размен, ведет к выгоде белых", "Ход нейтральный, позицию не портит"],
+            "correct": 1
+        },
+        {
+            "question": "Вопрос 20. Как бы вы сыграли?",
+            "image_path": "tests/20.png",
+            "options": ["Ke4", "e3", "e4", "Kd2"],
+            "correct": 0
+        },
+        {
+            "question": "Вопрос 21. Как черным укрепить пешку d5?",
+            "image_path": "tests/21.png",
+            "options": ["Nf6", "Be6", "e6"],
+            "correct": 2
+        },
+        {
+            "question": "Вопрос 22. Работает ли комбинация Сh7->Kg5?",
+            "image_path": "tests/22.png",
+            "options": ["Да", "Нет"],
+            "correct": 1
+        },
+        {
+            "question": "Вопрос 23. Ход белых. Чем закончится партия?",
+            "image_path": "tests/23.png",
+            "options": ["Победа белых", "Ничья"],
+            "correct": 0
+        },
+        {
+            "question": "Вопрос 24. Ход белых. Оцените ход Bh6",
+            "image_path": "tests/24.png",
+            "options": ["Сильный, разменивается сильный слон на g7", "Ход нейтральный, позицию не портит", "Это зевок"],
+            "correct": 2
+        },
+        {
+            "question": "Вопрос 25. Стоит ли черным взять коня на c3?",
+            "image_path": "tests/25.png",
+            "options": ["Да, размен ведет к выгоде черным", "Слон сейчас сильнее коня, лучше не меняться", "Ход не меняет оценку позиции"],
+            "correct": 0
+        }
+    ]
+    },
+{
+        "id": "style",
+        "title": "Тест на определение стиля игры",
+        "category": "уникальный",
+        "difficulty": "0",
+        "number": "2",
+        "questions": [
+        {
+            "question": "Вопрос 1. Какую бы суперсилу ты выбрал?",
+            "image_path": "style/1.png",
+            "options": ["Идеальное знание всех дебютов", "Самая быстрая скорость мышки в Интернете"]
+        },
+        {
+            "question": "Вопрос 2. У тебя есть интересная жертва коня на f7, как бы ты оценил этот ход?",
+            "image_path": "style/2.png",
+            "options": ["Отличный ход, после Qh5 у белых долгосрочный позиционный перевес", "Сомнительная жертва, скорее нет, чем да"]
+        },
+        {
+            "question": "Вопрос 3. Что бы вы выбрали: съесть чистую фигуру и играть дальше, или провести матовую комбинацию, но вы до конца не уверены, что она корректа?",
+            "image_path": "style/3.png",
+            "options": ["Забрал бы фигуру!", "Погрузился бы в вычисления и выбрал матовую комбинацию"]
+        },
+        {
+            "question": "Вопрос 4. Любишь ли ты гамбиты?",
+            "image_path": "style/4.png",
+            "options": ["О, да!", "О, нет!"]
+        },
+        {
+            "question": "Вопрос 5. Согласен ли ты с утверждением, что 'Шахматы - это 99% тактика'?",
+            "image_path": "tests/5.png",
+            "options": ["Согласен", "Не согласен"]
+        },
+        {
+            "question": "Вопрос 6. В какую бы сторону ты рокировался?",
+            "image_path": "tests/6.png",
+            "options": ["3", "4", "5", "6"]
+        },
+        {
+            "question": "Вопрос 7. Что бы ты выбрал?",
+            "image_path": "tests/7.png",
+            "options": ["Бриллиантовый ход", "Партия с точностью 99%"]
+        },
+        {
+            "question": "Вопрос 8. За сколько ходов подряд белый слон сможет сделать шах королю, оставаясь незамеченным?",
+            "image_path": "tests/8.png",
+            "options": ["Это невозможно", "2", "3", "4"]
+        },
+        {
+            "question": "Вопрос 9. Чья позиция лучше?",
+            "image_path": "tests/9.png",
+            "options": ["Белых", "Черных", "Позиция равна"]
+        },
+        {
+            "question": "Вопрос 10. За какое минимальное количество ходов черные смогут поставить мат?",
+            "image_path": "tests/10.png",
+            "options": ["1", "2", "3", "4"]
+        },
+        {
+            "question": "Вопрос 11. Выгодно ли белым брать слона d8?",
+            "image_path": "tests/11.png",
+            "options": ["Да", "Нет"]
+        },
+        {
+            "question": "Вопрос 12. Чем закончится игра при идеальной игре с обеих сторон?",
+            "image_path": "tests/12.png",
+            "options": ["Ничья", "Белые победят"]
+        },
+        {
+            "question": "Вопрос 13. Какая защита от мата самая лучшая?",
+            "image_path": "tests/13.png",
+            "options": ["g6", "Ne6", "Ne8", "Nh5"]
+        },
+        {
+            "question": "Вопрос 14. Ход белых. Успеет ли черный король задержать пешку?",
+            "image_path": "tests/14.png",
+            "options": ["Да", "Нет"]
+        },
+        {
+            "question": "Вопрос 15. Оцените ход Rd6",
+            "image_path": "tests/15.png",
+            "options": ["Сильный, это сочетание отвлечения и уничтожения защиты", "Это ошибка"]
+        },
+        {
+            "question": "Вопрос 16. Во сколько ходов черные ставят мат?",
+            "image_path": "tests/16.png",
+            "options": ["Здесь нет мата", "3", "4", "5"]
+        },
+        {
+            "question": "Вопрос 17. Ход черных. Как бы вы сыграли?",
+            "image_path": "tests/17.png",
+            "options": ["g6", "Qb6", "f6"]
+        },
+        {
+            "question": "Вопрос 18. Ход черных. Как бы вы сыграли?",
+            "image_path": "tests/18.png",
+            "options": ["Rb6", "Re2", "Ke8", "Rb5"]
+        },
+        {
+            "question": "Вопрос 19. Черные планируют сыграть Bb5. Оцените это решение.",
+            "image_path": "tests/19.png",
+            "options": ["Ход хороший, препятствует маневру Bc4->Bd5 и вскроет линию для ладьи", "Это плохой размен, ведет к выгоде белых", "Ход нейтральный, позицию не портит"]
+        },
+        {
+            "question": "Вопрос 20. Как бы вы сыграли?",
+            "image_path": "tests/20.png",
+            "options": ["Ke4", "e3", "e4", "Kd2"]
+        },
+        {
+            "question": "Вопрос 21. Как черным укрепить пешку d5?",
+            "image_path": "tests/21.png",
+            "options": ["Nf6", "Be6", "e6"]
+        },
+        {
+            "question": "Вопрос 22. Работает ли комбинация Сh7->Kg5?",
+            "image_path": "tests/22.png",
+            "options": ["Да", "Нет"]
+        },
+        {
+            "question": "Вопрос 23. Ход белых. Чем закончится партия?",
+            "image_path": "tests/23.png",
+            "options": ["Победа белых", "Ничья"]
+        },
+        {
+            "question": "Вопрос 24. Ход белых. Оцените ход Bh6",
+            "image_path": "tests/24.png",
+            "options": ["Сильный, разменивается сильный слон на g7", "Ход нейтральный, позицию не портит", "Это зевок"]
+        },
+        {
+            "question": "Вопрос 25. Стоит ли черным взять коня на c3?",
+            "image_path": "tests/25.png",
+            "options": ["Да, размен ведет к выгоде черным", "Слон сейчас сильнее коня, лучше не меняться", "Ход не меняет оценку позиции"]
+        }
+    ]
+    },
+    {
+        "id": "ninja",
+        "title": "Бесшумный ниндзя",
+        "category": "Тактика",
+        "difficulty": "Легкий",
+        "number": "3",
+        "questions": [
+            {
+                "question": "Вопрос 1. За какое наименьшее количество ходов белый конь сможет сделать шах королю, оставаясь незамеченным?",
+                "image_path": "ninja/1.png",
+                "options": ["Это невозможно", "4", "5", "6"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 2. За какое наименьшее количество ходов белая ладья сможет сделать шах королю, оставаясь незамеченной?",
+                "image_path": "ninja/2.png",
+                "options": ["Это невозможно", "2", "3", "4"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 3. За какое наименьшее количество ходов белый ферзь сможет сделать шах королю, оставаясь незамеченным?",
+                "image_path": "ninja/3.png",
+                "options": ["Это невозможно", "2", "3", "4"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 4. За какое наименьшее количество ходов белый слон сможет сделать шах королю, оставаясь незамеченным?",
+                "image_path": "ninja/4.png",
+                "options": ["Это невозможно", "2", "3", "4"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 5. За какое наименьшее количество ходов белый слон сможет сделать шах королю, оставаясь незамеченным?",
+                "image_path": "ninja/5.png",
+                "options": ["Это невозможно", "2", "3", "4"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 6. За какое наименьшее количество ходов белый ферзь сможет сделать шах королю, оставаясь незамеченным?",
+                "image_path": "ninja/6.png",
+                "options": ["Это невозможно", "2", "3", "4"],
+                "correct": 1
+            },
+            {
+                "question": "Вопрос 7. За какое наименьшее количество ходов белый ферзь сможет сделать шах королю, оставаясь незамеченным?",
+                "image_path": "ninja/7.png",
+                "options": ["Это невозможно", "2", "3", "4"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 8. За какое наименьшее количество ходов черный конь сможет сделать шах королю, оставаясь незамеченным?",
+                "image_path": "ninja/8.png",
+                "options": ["Это невозможно", "3", "4", "5"],
+                "correct": 3
+            },
+            {
+                "question": "Вопрос 9. За какое наименьшее количество ходов черная ладья сможет сделать шах королю, оставаясь незамеченной?",
+                "image_path": "ninja/9.png",
+                "options": ["Это невозможно", "3", "4", "5"],
+                "correct": 0
+            },
+            {
+                "question": "Вопрос 10. За какое наименьшее количество ходов черная ладья сможет сделать шах королю, оставаясь незамеченной?",
+                "image_path": "ninja/10.png",
+                "options": ["Это невозможно", "3", "4", "5"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 11. За какое наименьшее количество ходов белый ферзь сможет сделать шах королю, оставаясь незамеченным?",
+                "image_path": "ninja/11.png",
+                "options": ["Это невозможно", "3", "4", "5"],
+                "correct": 2
+            },
+            {
+                "question": "Вопрос 12. За какое наименьшее количество ходов черный конь сможет сделать шах королю, оставаясь незамеченным?",
+                "image_path": "ninja/12.png",
+                "options": ["Это невозможно", "4", "5", "6"],
+                "correct": 3
+            }
+        ]
+    }
+]
+
+
+
