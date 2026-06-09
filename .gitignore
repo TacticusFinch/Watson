@@ -3,3 +3,4 @@ venv/
 *.log 
 __pycache__/ 
 tensorflow-2.18.0-cp312-cp312-win_amd64.whl 
+.env
