@@ -2,8 +2,4 @@ venv/
 .idea/ 
 *.log 
 __pycache__/ 
-data/*.db
-data/*.sqlite
-data/*.sqlite3
-
 tensorflow-2.18.0-cp312-cp312-win_amd64.whl 
