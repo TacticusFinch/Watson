@@ -1496,7 +1496,7 @@ async def handle_user_homework_answer(message: types.Message, state: FSMContext)
 def schedule_daily_tests(bot: Bot):
     """ Планирует отправку тестов каждый день """
     scheduler.start()
-    scheduler.add_job(start_new_test_for_all, "cron", hour="20", minute=30, args=[bot])
+    scheduler.add_job(start_new_test_for_all, "cron", hour="8", minute=0, args=[bot])
     #scheduler.add_job(send_homework_for_beginners, "interval", minutes=2, args=[bot])
 
 @user_private_router.message(Command('state'))
